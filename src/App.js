@@ -13,11 +13,11 @@ const App = () => (
   <Router>
     <Header />
     <Switch>
-      <Route path="/">
-        <HomePage />
-      </Route>
       <Route path="/people">
         <People />
+      </Route>
+      <Route path="/">
+        <HomePage />
       </Route>
     </Switch>
   </Router>

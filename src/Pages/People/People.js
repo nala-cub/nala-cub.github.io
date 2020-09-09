@@ -1,7 +1,7 @@
 import React from 'react';
 
-const People = (props) => {
-	return (<div>People Page</div>);
-};
+import ProfileCard from '../../Components/ProfileCard/ProfileCard';
+
+const People = () => (<div><ProfileCard /></div>);
 
 export default People;
