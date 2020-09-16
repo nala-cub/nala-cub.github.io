@@ -1,41 +1,178 @@
 ---
 ---
 
-@article{einstein50meaning,
-  abbr={AJP},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@inproceedings{kann-etal-2019-towards,
+    title = "Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set",
+    author = "Kann, Katharina  and
+      Cho, Kyunghyun  and
+      Bowman, Samuel R.",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1329",
+    doi = "10.18653/v1/D19-1329",
+    pages = "3342--3349",
+    abstract = "Development sets are impractical to obtain for real low-resource languages, since using all available data for training is often more effective. However, development sets are widely used in research papers that purport to deal with low-resource natural language processing (NLP). Here, we aim to answer the following questions: Does using a development set for early stopping in the low-resource setting influence results as compared to a more realistic alternative, where the number of training epochs is tuned on development languages? And does it lead to overestimation or underestimation of performance? We repeat multiple experiments from recent work on neural models for low-resource NLP and compare results for models obtained by training with and without development sets. On average over languages, absolute accuracy differs by up to 1.4{\%}. However, for some languages and tasks, differences are as big as 18.0{\%} accuracy. Our results highlight the importance of realistic experimental setups in the publication of low-resource NLP research results.",
 }
 
-@misc{pruksachatkun2020intermediatetask,
-  title={Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work?},
-  author={Yada Pruksachatkun and Jason Phang and Haokun Liu and Phu Mon Htut and Xiaoyi Zhang and Richard Yuanzhe Pang and Clara Vania and Katharina Kann and Samuel R. Bowman},
-  year={2020},
-  eprint={2005.00628},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
+@misc{phang2020english,
+    title={English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too},
+    author={Jason Phang and Phu Mon Htut and Yada Pruksachatkun and Haokun Liu and Clara Vania and Katharina Kann and Iacer Calixto and Samuel R. Bowman},
+    year={2020},
+    eprint={2005.13013},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 
-@misc{jin2020unsupervised,
-  title={Unsupervised Morphological Paradigm Completion},
-  author={Huiming Jin and Liwei Cai and Yihui Peng and Chen Xia and Arya D. McCarthy and Katharina Kann},
-  year={2020},
-  eprint={2005.00970},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
+@inproceedings{kann-etal-2020-sigmorphon,
+    title = "The {SIGMORPHON} 2020 Shared Task on Unsupervised Morphological Paradigm Completion",
+    author = "Kann, Katharina  and
+      McCarthy, Arya D.  and
+      Nicolai, Garrett  and
+      Hulden, Mans",
+    booktitle = "Proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sigmorphon-1.3",
+    doi = "10.18653/v1/2020.sigmorphon-1.3",
+    pages = "51--62",
+    abstract = "In this paper, we describe the findings of the SIGMORPHON 2020 shared task on unsupervised morphological paradigm completion (SIGMORPHON 2020 Task 2), a novel task in the field of inflectional morphology. Participants were asked to submit systems which take raw text and a list of lemmas as input, and output all inflected forms, i.e., the entire morphological paradigm, of each lemma. In order to simulate a realistic use case, we first released data for 5 development languages. However, systems were officially evaluated on 9 surprise languages, which were only revealed a few days before the submission deadline. We provided a modular baseline system, which is a pipeline of 4 components. 3 teams submitted a total of 7 systems, but, surprisingly, none of the submitted systems was able to improve over the baseline on average over all 9 test languages. Only on 3 languages did a submitted system obtain the best results. This shows that unsupervised morphological paradigm completion is still largely unsolved. We present an analysis here, so that this shared task will ground further research on the topic.",
 }
 
-@misc{kann2019realistic,
-  title={Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set},
-  author={Katharina Kann and Kyunghyun Cho and Samuel R. Bowman},
-  year={2019},
-  eprint={1909.01522},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
+@inproceedings{prabhu-kann-2020-frustratingly,
+    title = "Frustratingly Easy Multilingual Grapheme-to-Phoneme Conversion",
+    author = "Prabhu, Nikhil  and
+      Kann, Katharina",
+    booktitle = "Proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sigmorphon-1.13",
+    doi = "10.18653/v1/2020.sigmorphon-1.13",
+    pages = "123--127",
+    abstract = "In this paper, we describe two CU-Boulder submissions to the SIGMORPHON 2020 Task 1 on multilingual grapheme-to-phoneme conversion (G2P). Inspired by the high performance of a standard transformer model (Vaswani et al., 2017) on the task, we improve over this approach by adding two modifications: (i) Instead of training exclusively on G2P, we additionally create examples for the opposite direction, phoneme-to-grapheme conversion (P2G). We then perform multi-task training on both tasks. (ii) We produce ensembles of our models via majority voting. Our approaches, though being conceptually simple, result in systems that place 6th and 8th amongst 23 submitted systems, and obtain the best results out of all systems on Lithuanian and Modern Greek, respectively.",
 }
+
+@inproceedings{singer-kann-2020-nyu,
+    title = "The {NYU}-{CUB}oulder Systems for {SIGMORPHON} 2020 Task 0 and Task 2",
+    author = "Singer, Assaf  and
+      Kann, Katharina",
+    booktitle = "Proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sigmorphon-1.8",
+    doi = "10.18653/v1/2020.sigmorphon-1.8",
+    pages = "90--98",
+    abstract = "We describe the NYU-CUBoulder systems for the SIGMORPHON 2020 Task 0 on typologically diverse morphological inflection and Task 2 on unsupervised morphological paradigm completion. The former consists of generating morphological inflections from a lemma and a set of morphosyntactic features describing the target form. The latter requires generating entire paradigms for a set of given lemmas from raw text alone. We model morphological inflection as a sequence-to-sequence problem, where the input is the sequence of the lemma{'}s characters with morphological tags, and the output is the sequence of the inflected form{'}s characters. First, we apply a transformer model to the task. Second, as inflected forms share most characters with the lemma, we further propose a pointer-generator transformer model to allow easy copying of input characters.",
+}
+
+@inproceedings{mager-kann-2020-ims,
+    title = "The {IMS}{--}{CUB}oulder System for the {SIGMORPHON} 2020 Shared Task on Unsupervised Morphological Paradigm Completion",
+    author = "Mager, Manuel  and
+      Kann, Katharina",
+    booktitle = "Proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sigmorphon-1.9",
+    doi = "10.18653/v1/2020.sigmorphon-1.9",
+    pages = "99--105",
+    abstract = "In this paper, we present the systems of the University of Stuttgart IMS and the University of Colorado Boulder (IMS--CUBoulder) for SIGMORPHON 2020 Task 2 on unsupervised morphological paradigm completion (Kann et al., 2020). The task consists of generating the morphological paradigms of a set of lemmas, given only the lemmas themselves and unlabeled text. Our proposed system is a modified version of the baseline introduced together with the task. In particular, we experiment with substituting the inflection generation component with an LSTM sequence-to-sequence model and an LSTM pointer-generator network. Our pointer-generator system obtains the best score of all seven submitted systems on average over all languages, and outperforms the official baseline, which was best overall, on Bulgarian and Kannada.",
+}
+
+
+@inproceedings{mohananey-etal-2020-self,
+    title = "Self-Training for Unsupervised Parsing with {PRPN}",
+    author = "Mohananey, Anhad  and
+      Kann, Katharina  and
+      Bowman, Samuel R.",
+    booktitle = "Proceedings of the 16th International Conference on Parsing Technologies and the IWPT 2020 Shared Task on Parsing into Enhanced Universal Dependencies",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.iwpt-1.11",
+    doi = "10.18653/v1/2020.iwpt-1.11",
+    pages = "105--110",
+    abstract = "Neural unsupervised parsing (UP) models learn to parse without access to syntactic annotations, while being optimized for another task like language modeling. In this work, we propose self-training for neural UP models: we leverage aggregated annotations predicted by copies of our model as supervision for future copies. To be able to use our model{'}s predictions during training, we extend a recent neural UP architecture, the PRPN (Shen et al., 2018a), such that it can be trained in a semi-supervised fashion. We then add examples with parses predicted by our model to our unlabeled UP training data. Our self-trained model outperforms the PRPN by 8.1{\%} F1 and the previous state of the art by 1.6{\%} F1. In addition, we show that our architecture can also be helpful for semi-supervised parsing in ultra-low-resource settings.",
+}
+
+@inproceedings{pruksachatkun-etal-2020-intermediate,
+    title = "Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?",
+    author = "Pruksachatkun, Yada  and
+      Phang, Jason  and
+      Liu, Haokun  and
+      Htut, Phu Mon  and
+      Zhang, Xiaoyi  and
+      Pang, Richard Yuanzhe  and
+      Vania, Clara  and
+      Kann, Katharina  and
+      Bowman, Samuel R.",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.467",
+    doi = "10.18653/v1/2020.acl-main.467",
+    pages = "5231--5247",
+    abstract = "While pretrained models such as BERT have shown large gains across natural language understanding tasks, their performance can be improved by further training the model on a data-rich intermediate task, before fine-tuning it on a target task. However, it is still poorly understood when and why intermediate-task training is beneficial for a given target task. To investigate this, we perform a large-scale study on the pretrained RoBERTa model with 110 intermediate-target task combinations. We further evaluate all trained models with 25 probing tasks meant to reveal the specific skills that drive transfer. We observe that intermediate tasks requiring high-level inference and reasoning abilities tend to work best. We also observe that target task performance is strongly correlated with higher-level abilities such as coreference resolution. However, we fail to observe more granular correlations between probing and target task performance, highlighting the need for further work on broad-coverage probing benchmarks. We also observe evidence that the forgetting of knowledge learned during pretraining may limit our analysis, highlighting the need for further work on transfer learning methods in these settings.",
+}
+
+@inproceedings{jin-etal-2020-unsupervised,
+    title = "Unsupervised Morphological Paradigm Completion",
+    author = "Jin, Huiming  and
+      Cai, Liwei  and
+      Peng, Yihui  and
+      Xia, Chen  and
+      McCarthy, Arya  and
+      Kann, Katharina",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.598",
+    doi = "10.18653/v1/2020.acl-main.598",
+    pages = "6696--6707",
+    abstract = "We propose the task of unsupervised morphological paradigm completion. Given only raw text and a lemma list, the task consists of generating the morphological paradigms, i.e., all inflected forms, of the lemmas. From a natural language processing (NLP) perspective, this is a challenging unsupervised task, and high-performing systems have the potential to improve tools for low-resource languages or to assist linguistic annotators. From a cognitive science perspective, this can shed light on how children acquire morphological knowledge. We further introduce a system for the task, which generates morphological paradigms via the following steps: (i) EDIT TREE retrieval, (ii) additional lemma retrieval, (iii) paradigm size discovery, and (iv) inflection generation. We perform an evaluation on 14 typologically diverse languages. Our system outperforms trivial baselines with ease and, for some languages, even obtains a higher accuracy than minimally supervised systems.",
+}
+
+@misc{kann2020learning,
+    title={Learning to Learn Morphological Inflection for Resource-Poor Languages},
+    author={Katharina Kann and Samuel R. Bowman and Kyunghyun Cho},
+    year={2020},
+    eprint={2004.13304},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+
+@misc{kann2020weakly,
+    title={Weakly Supervised POS Taggers Perform Poorly on Truly Low-Resource Languages},
+    author={Katharina Kann and Ophélie Lacroix and Anders Søgaard},
+    year={2020},
+    eprint={2004.13305},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+
+@inproceedings{kann-2020-acquisition,
+    title = "Acquisition of Inflectional Morphology in Artificial Neural Networks With Prior Knowledge",
+    author = "Kann, Katharina",
+    booktitle = "Proceedings of the Society for Computation in Linguistics 2020",
+    month = jan,
+    year = "2020",
+    address = "New York, New York",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.scil-1.19",
+    pages = "129--138",
+}
+

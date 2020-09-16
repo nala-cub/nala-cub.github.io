@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Selected publications of the group
-years: [2020, 2019, 1950]
+years: [2020, 2019]
 nav: true
 ---
 
