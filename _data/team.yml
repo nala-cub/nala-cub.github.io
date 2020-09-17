@@ -20,7 +20,7 @@
   description: Hi, I'm a second year master student in Computer Science. My research interests are broadly in interpretability and machine translation. I spent my Summer 2020 doing an internship at Apple in the special projects team. Before coming to Boulder I've had work experience of 3.5 years working as a full stack developer in a startup company named Fastfox in India. I love to play outdoor sports like badminton, soccer and cricket.
   image: rajat_bhatnagar.jpg
   github: rajatbhatnagar94
-  linkedin: rajat-bhatnagar94
+  linkedin: https://www.linkedin.com/in/rajat-bhatnagar94/
   email: rajatbhatnagar94@gmail.com
 
 - name: Abteen Ebrahimi
@@ -42,6 +42,8 @@
   description: I'm a Master's student in CS working on research in NLP, specifically on the use of transformers in the domains of Morphology and Machine Translation. In my free time, I like to bike around Boulder, rock-climb, read old books, and play my guitar.
   image: nikhil_prabhu.jpg
   github: NikhilPr95
+  email: nipr1013@colorado.edu
+  linkedin: https://www.linkedin.com/in/nikhil-prabhu
 
 - name: Jeff Lucca
   description: I'm a fourth year undergraduate in computer science and applied math at CU, and I'm interested in natural language generation and translation. My current project is on improving models for generating acrostic poetry.

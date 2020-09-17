@@ -4,4 +4,4 @@ date: 2020-08-24
 inline: true
 ---
 
-Birthday of CUB NALA! :sparkles: :smile:
+Birthday of NALA CUB! :sparkles: :smile:

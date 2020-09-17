@@ -34,7 +34,7 @@ nav: true
           {% if person.linkedin %}
           <div class="social-icon">
             <div class="icon" data-toggle="tooltip" title="Linked in">
-              <a href="https://linkedin.com/in/{{ person.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+              <a href="{{ person.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
             </div>
           </div>
           {% endif %}
