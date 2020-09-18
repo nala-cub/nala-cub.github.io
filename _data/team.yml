@@ -54,3 +54,9 @@
   description: After completing my undergrad at University of Toronto in computer engineering, I pursued my masters in computer science with a focus on natural language processing. While investigating new auxiliary tasks for BERT pre-training, I saw the power of modern language models while learning the inherent limitation of inhabiting purely textual environments. Co-advised by Alessandro Roncone and Katharina Kann, I am now working towards my PhD at CU Boulder to answer how robotics can help ground language in the real world and how language can help our interaction and collaboration with robots.
   image: stephane.jpg
   github: StephAO
+
+- name: Adam Wiemerslage
+  description: I am a first year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
+  image: adam_wiemerslage.jpg
+  github: adamits
+  email: adam.wiemerslage@colorado.edu
