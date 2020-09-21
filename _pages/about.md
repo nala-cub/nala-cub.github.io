@@ -14,13 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the <b>University of Colorado Boulder's </b> NAtural LAnguage Processing Research Group (NALA).
+Welcome to CU Boulder’s Natural Language Processing Group (CUB NALA/NALA)!
+We develop computational models for the understanding or generation of natural language. Some of our current areas of interest are:
 
-Our research is focused on
-- machine translation
-- low-resource languages
-- deep learning
-- transfer learning
-- morphology
-
-Email us at [katharina.kann@colorado.edu](katharina.kann@colorado.edu) to know more about our lab.
+- Multilingual NLP and low-resource languages
+- Transfer learning
+- Computational morphology
+- Machine translation
