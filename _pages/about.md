@@ -7,7 +7,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: logo.jpg
-  address: Welcome to our group
+  address: Welcome to our group!
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
