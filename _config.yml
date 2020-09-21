@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: NALA - CUB research group # the website title (if blank, full name will be used instead)
-first_name: NALA - CUB
+title: CU Boulder's NALA Rroup # the website title (if blank, full name will be used instead)
+first_name: NALA
 middle_name:
-last_name: Research Group
+last_name: Group
 email: katharina.kann@colorado.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research Labs website for Natural Language Processing and Understanding
+  Website of CU Boulder's NALA Group
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -50,9 +50,9 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can contact us at Katharina.Kann@colorado.edu
+  You can contact us at Katharina.Kann@colorado.edu.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-88966870-5 # out your google-analytics code
 
 # Pagination
 pagination:
