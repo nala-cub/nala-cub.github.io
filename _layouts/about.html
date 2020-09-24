@@ -8,6 +8,15 @@ layout: default
     <h1 class="post-title">
      {% if site.title == blank %}{{ site.title }}{% else %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% endif %}
     </h1>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88966870-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-88966870-5');
+    </script>
   </header>
 
   <article>
