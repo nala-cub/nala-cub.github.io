@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected publications of NALA members.
+description: Selected publications of NALA members (since 2020).
 years: [2020, 2019]
 nav: true
 ---
