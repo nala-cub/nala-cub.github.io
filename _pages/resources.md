@@ -7,5 +7,5 @@ nav: true
 ---
 
 <ul>
-<li> <b>Available soon:</b> <a target="_blank" href="">The Neural Poet</a> (Agarwal and Kann, 2020; 5.1GB)
+<li> <a target="_blank" href="https://drive.google.com/file/d/1nrv_SoabDf0t4j3UDDBfA_YYvRmv1NOG/view?usp=sharing">The Neural Poet</a> (Agarwal and Kann, 2020; 5.1GB)
 
