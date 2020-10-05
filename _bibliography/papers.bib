@@ -9,6 +9,43 @@
     month = dec,
 }
 
+@inproceedings{hellman-etal-2020-multiple,
+    title = "Multiple Instance Learning for Content Feedback Localization without Annotation",
+    author = "Hellman, Scott  and
+      Murray, William  and
+      Wiemerslage, Adam  and
+      Rosenstein, Mark  and
+      Foltz, Peter  and
+      Becker, Lee  and
+      Derr, Marcia",
+    booktitle = "Proceedings of the Fifteenth Workshop on Innovative Use of NLP for Building Educational Applications",
+    month = jul,
+    year = "2020",
+    address = "Seattle, WA, USA â†’ Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.bea-1.3",
+    doi = "10.18653/v1/2020.bea-1.3",
+    pages = "30--40",
+    abstract = "Automated Essay Scoring (AES) can be used to automatically generate holistic scores with reliability comparable to human scoring. In addition, AES systems can provide formative feedback to learners, typically at the essay level. In contrast, we are interested in providing feedback specialized to the content of the essay, and specifically for the content areas required by the rubric. A key objective is that the feedback should be localized alongside the relevant essay text. An important step in this process is determining where in the essay the rubric designated points and topics are discussed. A natural approach to this task is to train a classifier using manually annotated data; however, collecting such data is extremely resource intensive. Instead, we propose a method to predict these annotation spans without requiring any labeled annotation data. Our approach is to consider AES as a Multiple Instance Learning (MIL) task. We show that such models can both predict content scores and localize content by leveraging their sentence-level score predictions. This capability arises despite never having access to annotation training data. Implications are discussed for improving formative feedback and explainable AES models.",
+}
+
+@inproceedings{zhang-etal-2020-overfitting,
+    title = "Why Overfitting Isn{'}t Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries",
+    author = "Zhang, Mozhi  and
+      Fujinuma, Yoshinari  and
+      Paul, Michael J.  and
+      Boyd-Graber, Jordan",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.201",
+    doi = "10.18653/v1/2020.acl-main.201",
+    pages = "2214--2220",
+    abstract = "Cross-lingual word embeddings (CLWE) are often evaluated on bilingual lexicon induction (BLI). Recent CLWE methods use linear projections, which underfit the training dictionary, to generalize on BLI. However, underfitting can hinder generalization to other downstream tasks that rely on words from the training dictionary. We address this limitation by retrofitting CLWE to the training dictionary, which pulls training translation pairs closer in the embedding space and overfits the training dictionary. This simple post-processing step often improves accuracy on two downstream tasks, despite lowering BLI test accuracy. We also retrofit to both the training dictionary and a synthetic dictionary induced from CLWE, which sometimes generalizes even better on downstream tasks. Our results confirm the importance of fully exploiting training dictionary in downstream tasks and explains why BLI is a flawed CLWE evaluation.",
+}
+
 @inproceedings{mager2020,
     title={Tackling the Low-resource Challenge for Canonical Segmentation},
     author={Manuel Mager and Özlem Çetinoğlu and Katharina Kann},
