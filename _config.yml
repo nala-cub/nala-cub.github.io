@@ -95,6 +95,7 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
+  - jekyll-gist
   - jekyll-email-protect
   - jekyll-paginate-v2
   - jekyll/scholar
