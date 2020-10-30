@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: logo.jpg
+  image: logos/3EMNLP_1AACLSRW_pink.jpg
   address: Welcome to our group!
 
 news: true  # includes a list of news items
