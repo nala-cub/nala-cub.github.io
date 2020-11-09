@@ -62,3 +62,10 @@
   image: adam_wiemerslage.jpg
   github: adamits
   email: adam.wiemerslage@colorado.edu
+
+- name: Cory Paik
+  description: I am a first-year master student in computer science at CU Boulder. My research interests are in the development of AI systems that are able to comprehend the natural world in profound ways. My current project is investigating the behavior of NLP models within this context. Prior to this, I completed my undergraduate in computer science here at CU.
+  image: corypaik.jpg
+  github: corypaik
+  email: cory.paik@colorado.edu
+  linkedin: https://www.linkedin.com/in/corypaik/
