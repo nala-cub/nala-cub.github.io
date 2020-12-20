@@ -1,5 +1,5 @@
 - name: Katharina Kann
-  description: I’m an Assistant Professor of Computer Science at CU Boulder, where I am teaching and doing research on natural language processing (NLP). Research-wise, I am interested in multilingual NLP (how can we make NLP systems work for all of the world’s languages?), transfer learning (how can models use knowledge gained from a source task for a target task?), and computational morphology (how can models learn about and leverage subword information?). More generally, circumstances permitting, I spend a lot of my time traveling, dancing, hiking, and biking, and I love sushi, ice cream and watermelons.
+  description: I’m an Assistant Professor of Computer Science at CU Boulder, where work on natural language processing (NLP) and machine learning. Research-wise, I am interested in multilingual NLP (how can we make NLP systems work for all of the world’s languages?), transfer learning (how can models use knowledge gained from a source task for a target task?), and computational morphology (how can models learn about and leverage subword information?). More generally, circumstances permitting, I spend a lot of my time traveling, dancing, hiking, and biking, and I love sushi, ice cream and watermelons.
   image: katharina_kann.jpg
   github: Kelina
   linkedin:
@@ -12,33 +12,32 @@
   github: akkikiki
   email: fujinumay@gmail.com
   website: https://akkikiki.github.io
-
-- name: Connor Cook
-  description: I am a Master's student at CU Boulder. I spent some time in the AML Lab at Brigham Young University as an undergraduate (see https://github.com/byu-aml-lab), and spent my first year at CU Boulder as a research assistant in the D'Mello Lab (see https://www.colorado.edu/ics/research/dmello-lab). I have experience in a couple different areas of natural language processing, but dialog systems (also known as chatbots) have become my most recent area of interest.
-  image: connor_cook.jpg
-  github: cojoco
-
-- name: Rajat Bhatnagar
-  description: Hi, I'm a second year master student in Computer Science. My research interests are broadly in interpretability and machine translation. I spent my Summer 2020 doing an internship at Apple in the special projects team. Before coming to Boulder I've had work experience of 3.5 years working as a full stack developer in a startup company named Fastfox in India. I love to play outdoor sports like badminton, soccer and cricket.
-  image: rajat_bhatnagar.jpg
-  github: rajatbhatnagar94
-  linkedin: https://www.linkedin.com/in/rajat-bhatnagar94/
-  email: rajatbhatnagar94@gmail.com
+  start: 08/2020
 
 - name: Abteen Ebrahimi
   description: I'm a first year computer science PhD student at CU Boulder, and I'm currently interested in multilingual and low-resource NLP. I previously graduated from UC Santa Cruz where I worked on dialogue systems.
   image: abteen_ebrahimi.jpg
   github: abteen
-
-- name: Changbing Yang
-  description: Hi, I’m Changbing, a master student in computational linguistics at CU Boulder. My research interests are in low-resource languages (morphologically-rich languages) and computational semantics.
-  image: changbing_yang.jpg
-  github: changbingY
+  start: 08/2020
 
 - name: Ananya Ganesh
   description: I am a first year PhD student advised by Profs. Katharina Kann and Martha Palmer. I am interested in NLP and machine learning, and I’m currently working on dialog systems applied to classroom settings. Previously, I was a research engineer in the NLP & Speech Research group at Educational Testing Service (ETS), working on automated scoring. I earned an MS in CS from UMass Amherst in May 2019, where I was a part of the Information Extraction and Synthesis Lab.
   image: ananya_ganesh.jpg
   github: ananyaganesh
+  start: 08/2020
+  
+- name: Stephane Aroca-ouellette
+  description: After completing my undergrad at University of Toronto in computer engineering, I pursued my masters in computer science with a focus on natural language processing. While investigating new auxiliary tasks for BERT pre-training, I saw the power of modern language models while learning the inherent limitation of inhabiting purely textual environments. Co-advised by Alessandro Roncone and Katharina Kann, I am now working towards my PhD at CU Boulder to answer how robotics can help ground language in the real world and how language can help our interaction and collaboration with robots.
+  image: stephane.jpg
+  github: StephAO
+  start: 08/2020
+
+- name: Adam Wiemerslage
+  description: I am a first year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
+  image: adam_wiemerslage.jpg
+  github: adamits
+  email: adam.wiemerslage@colorado.edu
+  start: 01/2021
 
 - name: Nikhil Prabhu
   description: I'm a Master's student in CS working on research in NLP, specifically on the use of transformers in the domains of Morphology and Machine Translation. In my free time, I like to bike around Boulder, rock-climb, read old books, and play my guitar.
@@ -46,22 +45,19 @@
   github: NikhilPr95
   email: nipr1013@colorado.edu
   linkedin: https://www.linkedin.com/in/nikhil-prabhu
+  
+- name: Rajat Bhatnagar
+  description: Hi, I'm a second-year master student in Computer Science. My research interests are broadly in interpretability and machine translation. I spent my Summer 2020 doing an internship at Apple in the special projects team. Before coming to Boulder I've had work experience of 3.5 years working as a full stack developer in a startup company named Fastfox in India. I love to play outdoor sports like badminton, soccer and cricket.
+  image: rajat_bhatnagar.jpg
+  github: rajatbhatnagar94
+  linkedin: https://www.linkedin.com/in/rajat-bhatnagar94/
+  email: rajatbhatnagar94@gmail.com
+  start: 02/2020
 
-- name: Jeff Lucca
-  description: I'm a fourth year undergraduate in computer science and applied math at CU, and I'm interested in natural language generation and translation. My current project is on improving models for generating acrostic poetry.
-  image: jeff_lucca.png
-  github: lucca
-
-- name: Stephane Aroca-ouellette
-  description: After completing my undergrad at University of Toronto in computer engineering, I pursued my masters in computer science with a focus on natural language processing. While investigating new auxiliary tasks for BERT pre-training, I saw the power of modern language models while learning the inherent limitation of inhabiting purely textual environments. Co-advised by Alessandro Roncone and Katharina Kann, I am now working towards my PhD at CU Boulder to answer how robotics can help ground language in the real world and how language can help our interaction and collaboration with robots.
-  image: stephane.jpg
-  github: StephAO
-
-- name: Adam Wiemerslage
-  description: I am a first year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
-  image: adam_wiemerslage.jpg
-  github: adamits
-  email: adam.wiemerslage@colorado.edu
+- name: Changbing Yang
+  description: Hi, I’m Changbing, a master student in computational linguistics at CU Boulder. My research interests are in low-resource languages (morphologically-rich languages) and computational semantics.
+  image: changbing_yang.jpg
+  github: changbingY
 
 - name: Cory Paik
   description: I am a first-year master student in computer science at CU Boulder. My research interests are in the development of AI systems that are able to comprehend the natural world in profound ways. My current project is investigating the behavior of NLP models within this context. Prior to this, I completed my undergraduate in computer science here at CU.
@@ -69,3 +65,15 @@
   github: corypaik
   email: cory.paik@colorado.edu
   linkedin: https://www.linkedin.com/in/corypaik/
+  start: 11/2020
+  
+- name: Jeff Lucca
+  description: I'm a fourth year undergraduate in computer science and applied math at CU, and I'm interested in natural language generation and translation. My current project is on improving models for generating acrostic poetry.
+  image: jeff_lucca.png
+  github: lucca
+  start: 08/2020
+
+- name: Dorothea French
+  description: I'm a third-year undergraduate student, just starting to explore NLP. I'm interested in semantic analysis, text generation, and adaptive models -- to name a few. Currently I'm working on an independent study project to determine whether language models and young second-language learners show similarities in the mistakes they make using English.
+  image: dorothea.jpg
+  start: 12/2020

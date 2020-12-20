@@ -14,7 +14,7 @@ nav: true
       <img src="/assets/img/team/{{ person.image }}" alt="person thumbnail">
       {% endif %}
       <div class="card-body">
-        <h2 class="card-title text-lowercase">{{ person.name }}</h2>
+        <h2 class="card-title">{{ person.name }}</h2>
         <p class="card-text">{{ person.description }}</p>
         <div class="row ml-1 mr-1 p-0">
           {% if person.email %}
@@ -50,5 +50,14 @@ nav: true
     </div>
   </div>
 {% endfor %}
+</div>
 
+<br>
+<div>
+  <h2 class="card-title">Previous NALA members</h2>
+  <ul>
+  {% for person in site.data.ex_team %}
+  <li>{{ person.name }} ({{ person.level }}, {{person.start}}-{{person.end}})</li>
+  {% endfor %}
+  </ul>
 </div>
