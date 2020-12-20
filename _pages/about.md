@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome to the website of CU Boulder’s Natural Language Processing (NALA) Group!
-We develop computational models for the understanding or generation of natural language. Some of our current areas of interest are (in no particular order):
+We develop computational models for the understanding or generation of natural language. Some of our current <a href="/projects/">areas of interest</a> are:
 
 - Universal natural language processing and transfer learning
 - Natural language processing for educational applications
