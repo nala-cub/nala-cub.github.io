@@ -1,5 +1,5 @@
 - name: Katharina Kann
-  description: I’m an Assistant Professor of Computer Science at CU Boulder, where work on natural language processing (NLP) and machine learning. Research-wise, I am interested in multilingual NLP (how can we make NLP systems work for all of the world’s languages?), transfer learning (how can models use knowledge gained from a source task for a target task?), and computational morphology (how can models learn about and leverage subword information?). More generally, circumstances permitting, I spend a lot of my time traveling, dancing, hiking, and biking, and I love sushi, ice cream and watermelons.
+  description: I’m an Assistant Professor of Computer Science at CU Boulder, where I work on natural language processing (NLP) and machine learning. Research-wise, I am interested in multilingual NLP (how can we make NLP systems work for all of the world’s languages?), transfer learning (how can models use knowledge gained from a source task for a target task?), and computational morphology (how can models learn about and leverage subword information?). More generally, circumstances permitting, I spend a lot of my time traveling, dancing, hiking, and biking, and I love sushi, ice cream and watermelons.
   image: katharina_kann.jpg
   github: Kelina
   linkedin:
