@@ -67,6 +67,11 @@
   linkedin: https://www.linkedin.com/in/corypaik/
   start: 11/2020
   
+- name: Pragna Mandadi
+  description: Hi, I'm a first year Masters in Computer Science Student. I'm interested in developing multilayered and multidimensional AI systems that focus on revolutionizing the way modern problems are solved. Currently I'm working on a question reformulation project to enhance the model's ability to perceive and understand context so that the model can answer questions derived from a paragraph or a comprehension more accurately. Prior to this I've had an industry experience of 2.5 years at Citicorp Services as an Application Developer. In my free time I enjoy watching TV shows and socializing with people.
+  image: pragna.jpg
+  start: 12/2020
+
 - name: Jeff Lucca
   description: I'm a fourth year undergraduate in computer science and applied math at CU, and I'm interested in natural language generation and translation. My current project is on improving models for generating acrostic poetry.
   image: jeff_lucca.png
