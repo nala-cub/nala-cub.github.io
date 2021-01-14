@@ -62,6 +62,10 @@
       {% endif %}
       </div>
     {% endif %}
+    
+    {% if entry.info %}
+      <div><b>{{entry.info}}</b></div>
+    {% endif %}
 
     <div class="links">
     {% if entry.abstract %}
