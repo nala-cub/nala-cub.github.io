@@ -6,6 +6,16 @@
   email: katharina.kann@colorado.edu
   website: https://kelina.github.io
 
+- name: Shiran Dudy
+  description: I am a postdoc in computer science at CU Boulder, where I focus on natural language processing (NLP) and reinforcement learning (RL). I am participating in the institute for student-AI teaming project (iSAT) where we investigate how to integrate digital assistants into a classroom setting. I am also interested in finding ways to address diversity in natural language generation (NLG), addressing algorithmic biases, working towards continual learning models (particularly in NLP), and accessibility and augmentative and alternative communication (AAC).
+      Outside of work I like practicing yoga, hiking, reading, cooking, and also just hanging out with friends. :-)
+  image: shiran.jpg
+  github: shiranD
+  email: shiran.dudy@colorado.edu
+  website: http://www.shirandudy.com/
+  twitter: shirandudy
+  start: 04/2021
+
 - name: Yoshinari Fujinuma
   description: I'm a fifth-year computer science Ph.D. candidate at the University of Colorado, Boulder. My current research topic is on cross-lingual NLP i.e., making NLP models language-agnostic.
   image: yoshinari_fujinuma.jpg
