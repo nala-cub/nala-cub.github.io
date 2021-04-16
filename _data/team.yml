@@ -40,6 +40,7 @@
   description: After completing my undergrad at University of Toronto in computer engineering, I pursued my masters in computer science with a focus on natural language processing. While investigating new auxiliary tasks for BERT pre-training, I saw the power of modern language models while learning the inherent limitation of inhabiting purely textual environments. Co-advised by Alessandro Roncone and Katharina Kann, I am now working towards my PhD at CU Boulder to answer how robotics can help ground language in the real world and how language can help our interaction and collaboration with robots.
   image: stephane.jpg
   github: StephAO
+  website: https://stephao.github.io
   start: 08/2020
 
 - name: Adam Wiemerslage
