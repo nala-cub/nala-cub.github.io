@@ -5,3 +5,11 @@
   level: master's student
   start: 08/2020
   end: 12/2020
+
+- name: Jeff Lucca
+  description: I'm a fourth year undergraduate in computer science and applied math at CU, and I'm interested in natural language generation and translation. My current project is on improving models for generating acrostic poetry.
+  image: jeff_lucca.png
+  level: undergraduate student
+  github: lucca
+  start: 08/2020
+  end: 03/2020

@@ -83,12 +83,6 @@
   image: pragna.jpg
   start: 12/2020
 
-- name: Jeff Lucca
-  description: I'm a fourth year undergraduate in computer science and applied math at CU, and I'm interested in natural language generation and translation. My current project is on improving models for generating acrostic poetry.
-  image: jeff_lucca.png
-  github: lucca
-  start: 08/2020
-
 - name: Dorothea French
   description: I'm a third-year undergraduate student, just starting to explore NLP. I'm interested in semantic analysis, text generation, and adaptive models -- to name a few. Currently I'm working on an independent study project to determine whether language models and young second-language learners show similarities in the mistakes they make using English.
   image: dorothea.jpg
