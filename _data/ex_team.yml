@@ -13,3 +13,20 @@
   github: lucca
   start: 08/2020
   end: 03/2020
+  
+- name: Rajat Bhatnagar
+  description: Hi, I'm a second-year master student in Computer Science. My research interests are broadly in interpretability and machine translation. I spent my Summer 2020 doing an internship at Apple in the special projects team. Before coming to Boulder I've had work experience of 3.5 years working as a full stack developer in a startup company named Fastfox in India. I love to play outdoor sports like badminton, soccer and cricket.
+  image: rajat_bhatnagar.jpg
+  github: rajatbhatnagar94
+  linkedin: https://www.linkedin.com/in/rajat-bhatnagar94/
+  email: rajatbhatnagar94@gmail.com
+  level: master's student
+  start: 02/2020
+  end: 05/2021
+  
+- name: Andrew Gerlach
+  description: I am a master's student in computational linguistics at CU Boulder. I like all areas of NLP and linguistics, but especially enjoy computational morphology and phonology. In my free time I enjoy playing music, cooking, and spending time outdoors.
+  image: andrew.jpg
+  level: master's student
+  start: 08/2020
+  end: 05/2021
