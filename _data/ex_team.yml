@@ -30,3 +30,21 @@
   level: master's student
   start: 08/2020
   end: 05/2021
+  
+- name: Nikhil Prabhu
+  description: I'm a Master's student in CS working on research in NLP, specifically on the use of transformers in the domains of Morphology and Machine Translation. In my free time, I like to bike around Boulder, rock-climb, read old books, and play my guitar.
+  image: nikhil_prabhu.jpg
+  github: NikhilPr95
+  email: nipr1013@colorado.edu
+  linkedin: https://www.linkedin.com/in/nikhil-prabhu
+  level: master's student
+  start: 08/2020
+  end: 07/2021
+
+- name: Changbing Yang
+  description: Hi, I’m Changbing, a master student in computational linguistics at CU Boulder. My research interests are in low-resource languages (morphologically-rich languages) and computational semantics.
+  image: changbing_yang.jpg
+  github: changbingY
+  level: master's student
+  start: 08/2020
+  end: 07/2021

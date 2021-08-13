@@ -51,18 +51,12 @@
   github: adamits
   email: adam.wiemerslage@colorado.edu
   start: 01/2021
-
-- name: Nikhil Prabhu
-  description: I'm a Master's student in CS working on research in NLP, specifically on the use of transformers in the domains of Morphology and Machine Translation. In my free time, I like to bike around Boulder, rock-climb, read old books, and play my guitar.
-  image: nikhil_prabhu.jpg
-  github: NikhilPr95
-  email: nipr1013@colorado.edu
-  linkedin: https://www.linkedin.com/in/nikhil-prabhu
-
-- name: Changbing Yang
-  description: Hi, I’m Changbing, a master student in computational linguistics at CU Boulder. My research interests are in low-resource languages (morphologically-rich languages) and computational semantics.
-  image: changbing_yang.jpg
-  github: changbingY
+  
+- name: Sagi Shaier
+  description: Currently a PhD student at CU Boulder, advised by Katharina Kann and Lawrence Hunter. I completed my undergraduate degree in computational and applied mathematics on the pre-med track with a focus on epidemiology. Later I worked in the industry for about 1.5 years in various machine learning & data science positions. My sights are set on using the intersection of artificial intelligence and neuroscience to improve people’s lives. My research interests are artificial general intelligence, reasoning, knowledge graphs, dynamic systems, continual learning, and online learning. More specifically, I’m interested in developing more biologically plausible computational models of cognition that can reason. Outside of academia I spend most of my time practicing Muay Thai, hiking, failing to teach my puppy how to play fetch, and going on spontaneous road trips.
+  image: sagi.png
+  email: sagi.shaier@colorado.edu
+  start: 08/2021
 
 - name: Cory Paik
   description: I am a first-year master student in computer science at CU Boulder. My research interests are in the development of AI systems that are able to comprehend the natural world in profound ways. My current project is investigating the behavior of NLP models within this context. Prior to this, I completed my undergraduate in computer science here at CU.
