@@ -17,7 +17,7 @@
   start: 04/2021
 
 - name: Yoshinari Fujinuma
-  description: I'm a fifth-year computer science Ph.D. candidate at the University of Colorado, Boulder. My current research topic is on cross-lingual NLP i.e., making NLP models language-agnostic.
+  description: I'm a sixth-year computer science Ph.D. candidate at the University of Colorado, Boulder. My current research topic is on cross-lingual NLP, i.e., making NLP models language-agnostic.
   image: yoshinari_fujinuma.jpg
   github: akkikiki
   email: fujinumay@gmail.com
@@ -25,14 +25,14 @@
   start: 08/2020
 
 - name: Abteen Ebrahimi
-  description: I'm a first year computer science PhD student at CU Boulder, and I'm currently interested in multilingual and low-resource NLP. I previously graduated from UC Santa Cruz where I worked on dialogue systems.
+  description: I'm a second-year PhD student advised by Prof. Katharina Kann. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
   image: abteen_ebrahimi.jpg
   email: abteen.ebrahimi@colorado.edu
   github: abteen
   start: 08/2020
 
 - name: Ananya Ganesh
-  description: I am a first year PhD student advised by Profs. Katharina Kann and Martha Palmer. I'm broadly interested in natural language processing as applied to educational settings, and I’m currently working on developing NLP models to understand and improve classroom discourse. Previously, I was a research engineer in the NLP & Speech Research group at the Educational Testing Service (ETS) and I received a Master's in Computer Science from UMass Amherst. In my free time, I enjoy reading fantasy fiction, solving puzzles, and exploring Boulder. 
+  description: I am a second-year PhD student advised by Profs. Katharina Kann and Martha Palmer. I'm broadly interested in natural language processing as applied to educational settings, and I’m currently working on developing NLP models to understand and improve classroom discourse. Previously, I was a research engineer in the NLP & Speech Research group at the Educational Testing Service (ETS) and I received a Master's in Computer Science from UMass Amherst. In my free time, I enjoy reading fantasy fiction, solving puzzles, and exploring Boulder.
   image: ananya_ganesh.jpg
   github: ananyaganesh
   email: ananya.ganesh@colorado.edu
@@ -48,7 +48,7 @@
   start: 08/2020
 
 - name: Adam Wiemerslage
-  description: I am a first year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
+  description: I am a first-year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
   image: adam_wiemerslage.jpg
   github: adamits
   email: adam.wiemerslage@colorado.edu
@@ -61,7 +61,7 @@
   start: 08/2021
 
 - name: Cory Paik
-  description: I am a first-year master student in computer science at CU Boulder. My research interests are in the development of AI systems that are able to comprehend the natural world in profound ways. My current project is investigating the behavior of NLP models within this context. Prior to this, I completed my undergraduate in computer science here at CU.
+  description: I am a second-year master student in computer science at CU Boulder. My research interests are in the development of AI systems that are able to comprehend the natural world in profound ways. My current project is investigating the behavior of NLP models within this context. Prior to this, I completed my undergraduate in computer science here at CU.
   image: corypaik.jpg
   github: corypaik
   email: cory.paik@colorado.edu
@@ -69,7 +69,7 @@
   start: 11/2020
   
 - name: Pragna Mandadi
-  description: Hi, I'm a first year Masters in Computer Science Student. I'm interested in developing multilayered and multidimensional AI systems that focus on revolutionizing the way modern problems are solved. Currently I'm working on a question reformulation project to enhance the model's ability to perceive and understand context so that the model can answer questions derived from a paragraph or a comprehension more accurately. Prior to this I've had an industry experience of 2.5 years at Citicorp Services as an Application Developer. In my free time I enjoy watching TV shows and socializing with people.
+  description: Hi, I'm a second-year Masters in Computer Science Student. I'm interested in developing multilayered and multidimensional AI systems that focus on revolutionizing the way modern problems are solved. Currently I'm working on a question reformulation project to enhance the model's ability to perceive and understand context so that the model can answer questions derived from a paragraph or a comprehension more accurately. Prior to this I've had an industry experience of 2.5 years at Citicorp Services as an Application Developer. In my free time I enjoy watching TV shows and socializing with people.
   image: pragna.jpg
   email: pragna.mandadi@colorado.edu
   start: 12/2020
@@ -82,7 +82,7 @@
   start: 08/2021
 
 - name: Dorothea French
-  description: I'm a third-year undergraduate student, just starting to explore NLP. I'm interested in semantic analysis, text generation, and adaptive models -- to name a few. Currently I'm working on an independent study project to determine whether language models and young second-language learners show similarities in the mistakes they make using English.
-  image: dorothea.jpg
+  description: I'm a fourth-year undergraduate student, interested in NLP for education; especially language learning research and teaching methods. I'd also like to explore dialogue systems, multilingual NLP, and semantics, and their applications in this field. Currently I'm working on a project to determine whether language models and young English second-language learners make similar grammatical mistakes in English. In my free time, I enjoy playing board games, reading, and trying new food and drinks.
+  image: new_dorothea.jpg
   email: dorothea.french@colorado.edu
   start: 12/2020
