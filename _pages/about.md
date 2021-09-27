@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the website of Katharina Kann's Natural Language Processing (NALA) Group at CU Boulder!
+Welcome to the website of the Kann Natural Language Processing Group (NALA) at CU Boulder!
 We develop computational models for the understanding or generation of natural language. Some of our current areas of interest are:
 
 - Universal natural language processing and transfer learning
