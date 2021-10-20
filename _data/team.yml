@@ -74,6 +74,13 @@
   email: pragna.mandadi@colorado.edu
   start: 12/2020
   
+- name: Nikita Menon
+  description: Hi, I'm a first-year Master's in Computer Science student. My key interests lie in the fields of machine learning & data science. I am currently working on a project relating to computational morphology, under-represented languages and multilingual models. Previously I was a data scientist at IBM India where I worked on time series forecasting, natural language processing and computer vision. In my free time, I like to paint, play sports and spend time with my friends & family.
+  image: nikita.png
+  email: nika8335@colorado.edu
+  linkedin: www.linkedin.com/in/nikita-menon-267523112/
+  start: 10/2021
+  
 - name: Arvind Sreenivas
   description: I am a first-year master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
   image: arvind_sreenivas.jpeg
