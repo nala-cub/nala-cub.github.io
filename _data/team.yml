@@ -74,22 +74,29 @@
   email: pragna.mandadi@colorado.edu
   start: 12/2020
   
-- name: Nikita Menon
-  description: Hi, I'm a first-year Master's in Computer Science student. My key interests lie in the fields of machine learning & data science. I am currently working on a project relating to computational morphology, under-represented languages and multilingual models. Previously I was a data scientist at IBM India where I worked on time series forecasting, natural language processing and computer vision. In my free time, I like to paint, play sports and spend time with my friends & family.
-  image: nikita.png
-  email: nika8335@colorado.edu
-  linkedin: www.linkedin.com/in/nikita-menon-267523112/
-  start: 10/2021
-  
 - name: Arvind Sreenivas
   description: I am a first-year master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
   image: arvind_sreenivas.jpeg
   linkedin: https://www.linkedin.com/in/sreenivasarvind/
   email: arvind.sreenivas@colorado.edu
   start: 08/2021
+  
+- name: Nishant Bhattacharya
+  description: I'm a first year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
+  image: nishant.jpg
+  linkedin: https://www.linkedin.com/in/nishant-bhattacharya-a41396101/
+  github: nishantb21
+  email: nishant.bhattacharya@colorado.edu
+  start: 10/2021
 
 - name: Dorothea French
   description: I'm a fourth-year undergraduate student, interested in NLP for education; especially language learning research and teaching methods. I'd also like to explore dialogue systems, multilingual NLP, and semantics, and their applications in this field. Currently I'm working on a project to determine whether language models and young English second-language learners make similar grammatical mistakes in English. In my free time, I enjoy playing board games, reading, and trying new food and drinks.
   image: new_dorothea.jpg
   email: dorothea.french@colorado.edu
   start: 12/2020
+  
+- name: Jasdeep Singh
+  description: I’m a first-year undergraduate student at CU Boulder majoring in Computer Science and Applied Mathematics. My interests are machine learning, artificial intelligence, and data science. Outside of the classroom, I like to play basketball, tennis, football, hike, and raft.
+  image: jasdeep.jpg
+  email: jasi5951@colorado.edu
+  start: 10/2021
