@@ -88,6 +88,14 @@
   github: nishantb21
   email: nishant.bhattacharya@colorado.edu
   start: 10/2021
+  
+- name: Abhishek Purushothama
+  description: I am a first-year master's student in computer science at CU Boulder. My interests are in natural language processing and its applications. I am currently exploring multilingual and cross-lingual NLP. Before this, I was a software engineer at VMware for 4 years.  Outside of work, I enjoy reading,  watching TV shows, board games, and occasionally biking.
+  image: abhishek.jpg
+  website: https://abhishek-p.github.io/
+  github: abhishek-p
+  email: Abhishek.Purushothama@colorado.edu
+  start: 11/2021
 
 - name: Dorothea French
   description: I'm a fourth-year undergraduate student, interested in NLP for education; especially language learning research and teaching methods. I'd also like to explore dialogue systems, multilingual NLP, and semantics, and their applications in this field. Currently I'm working on a project to determine whether language models and young English second-language learners make similar grammatical mistakes in English. In my free time, I enjoy playing board games, reading, and trying new food and drinks.
