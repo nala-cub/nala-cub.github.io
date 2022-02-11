@@ -48,3 +48,13 @@
   level: master's student
   start: 08/2020
   end: 07/2021
+  
+- name: Yoshinari Fujinuma
+  description: I'm a sixth-year computer science Ph.D. candidate at the University of Colorado, Boulder. My current research topic is on cross-lingual NLP, i.e., making NLP models language-agnostic.
+  image: yoshinari_fujinuma.jpg
+  github: akkikiki
+  email: fujinumay@gmail.com
+  website: https://akkikiki.github.io
+  start: 08/2020
+  end: 12/2021
+  level: PhD student

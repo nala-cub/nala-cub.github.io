@@ -16,14 +16,6 @@
   twitter: shirandudy
   start: 04/2021
 
-- name: Yoshinari Fujinuma
-  description: I'm a sixth-year computer science Ph.D. candidate at the University of Colorado, Boulder. My current research topic is on cross-lingual NLP, i.e., making NLP models language-agnostic.
-  image: yoshinari_fujinuma.jpg
-  github: akkikiki
-  email: fujinumay@gmail.com
-  website: https://akkikiki.github.io
-  start: 08/2020
-
 - name: Abteen Ebrahimi
   description: I'm a second-year PhD student advised by Prof. Katharina Kann. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
   image: abteen_ebrahimi.jpg
@@ -113,4 +105,10 @@
   description: I am a first-year undergraduate currently majoring in computer science. I am interested in artificial intelligence, machine learning, and robotics. In my free time I like to read, make android apps, and take long walks in nature.
   image: alex.png
   email: alexandra.barry@colorado.edu
+  start: 10/2021
+  
+- name: Musaad Alarifi
+  description: I'm a first-year undergraduate student at CUB majoring in CS. I'm interested in many fields in CS but data science is what interests me the most. In my free time, I enjoy discovering Riyadh valleys, playing tennis, and reading in philosophy and pre-Islamic poetry.
+  image: musaad.jpeg
+  email: mual3678@colorado.edu
   start: 10/2021
