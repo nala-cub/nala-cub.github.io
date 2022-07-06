@@ -101,3 +101,9 @@
   image: new_dorothea.jpg
   email: dorothea.french@colorado.edu
   start: 12/2020
+  
+- name: Zoe Stewart
+  description: This fall I will be a fourth-year undergraduate in computer science, with a minor in linguistics. I am mostly interested in the fields of NLP and computational linguistics, and their applications in increasing accessibility for disadvantaged communities. This last year I worked with the RISE IRT through the Discovery Learning Apprenticeship (DLA), where I learned how to use ArcGIS and RStudio to analyse the unique vulnerability and hazard exposure of incarceration facilities in the United States. Prior to university, I spent a gap year in Taipei to study Mandarin Chinese, and in my free time I enjoy trying to not lose my Chinese, reading, skiing, cooking, and any/all river activities.
+  image: zoe_stewart.jpg
+  email: zoe.stewart@colorado.edu
+  start: 04/2022
