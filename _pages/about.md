@@ -24,5 +24,5 @@ We develop computational models for the understanding or generation of natural l
 - Language grounding
 - Natural language processing for medical applications
 
-More details can be found <a href="/projects/">here</a>. Please also check out the websites of <a href="http://turing.iimas.unam.mx/americasnlp" target="_blank">NLP for Indigenous Languages of the Americas (AmericasNLP)</a> and the <a href="https://sites.google.com/view/coco4mt" target="_blank">First Workshop on Corpus Generation and Corpus Augmentation for Machine Translation (CoCo4MT)</a>, which members of NALA are co-organizing!
+More details can be found <a href="/projects/">here</a>. Also check out the websites of <a href="http://turing.iimas.unam.mx/americasnlp" target="_blank">NLP for Indigenous Languages of the Americas (AmericasNLP)</a> and the <a href="https://sites.google.com/view/coco4mt" target="_blank">First Workshop on Corpus Generation and Corpus Augmentation for Machine Translation (CoCo4MT)</a>, which members of NALA are co-organizing, and the website of <a href="https://www.pangeachat.com" target="_blank">Pangea Chat</a>, an NSF-funded start-up Katharina is advising.
 
