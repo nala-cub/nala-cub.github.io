@@ -89,3 +89,22 @@
   email: mual3678@colorado.edu
   start: 10/2021
   end: 05/2022
+
+- name: Shiran Dudy
+  description: I am a postdoc in computer science at CU Boulder, where I focus on natural language processing (NLP) and reinforcement learning (RL). I am participating in the institute for student-AI teaming project (iSAT) where we investigate how to integrate digital assistants into a classroom setting. I am also interested in finding ways to address diversity in natural language generation (NLG), addressing algorithmic biases, working towards continual learning models (particularly in NLP), and accessibility and augmentative and alternative communication (AAC).
+      Outside of work I like practicing yoga, hiking, reading, cooking, and also just hanging out with friends. :-)
+  image: shiran.jpg
+  github: shiranD
+  email: shiran.dudy@colorado.edu
+  website: http://www.shirandudy.com/
+  twitter: shirandudy
+  start: 04/2021
+  end: 07/2022
+  
+- name: Arvind Sreenivas
+  description: I am a first-year master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
+  image: arvind_sreenivas.jpeg
+  linkedin: https://www.linkedin.com/in/sreenivasarvind/
+  email: arvind.sreenivas@colorado.edu
+  start: 08/2021
+  end: 05/2022

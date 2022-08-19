@@ -6,16 +6,6 @@
   email: katharina.kann@colorado.edu
   website: https://kelina.github.io
 
-- name: Shiran Dudy
-  description: I am a postdoc in computer science at CU Boulder, where I focus on natural language processing (NLP) and reinforcement learning (RL). I am participating in the institute for student-AI teaming project (iSAT) where we investigate how to integrate digital assistants into a classroom setting. I am also interested in finding ways to address diversity in natural language generation (NLG), addressing algorithmic biases, working towards continual learning models (particularly in NLP), and accessibility and augmentative and alternative communication (AAC).
-      Outside of work I like practicing yoga, hiking, reading, cooking, and also just hanging out with friends. :-)
-  image: shiran.jpg
-  github: shiranD
-  email: shiran.dudy@colorado.edu
-  website: http://www.shirandudy.com/
-  twitter: shirandudy
-  start: 04/2021
-
 - name: Abteen Ebrahimi
   description: I'm a second-year PhD student advised by Prof. Katharina Kann. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
   image: abteen_ebrahimi.jpg
@@ -31,7 +21,7 @@
   website: https://ananyaganesh.github.io
   start: 08/2020
   
-- name: Stephane Aroca-ouellette
+- name: Stéphane Aroca-Ouellette
   description: After completing my undergrad at University of Toronto in computer engineering, I pursued my masters in computer science with a focus on natural language processing. While investigating new auxiliary tasks for BERT pre-training, I saw the power of modern language models while learning the inherent limitation of inhabiting purely textual environments. Co-advised by Alessandro Roncone and Katharina Kann, I am now working towards my PhD at CU Boulder to answer how robotics can help ground language in the real world and how language can help our interaction and collaboration with robots.
   image: stephane.jpg
   email: stephane.aroca-ouellette@colorado.edu 
@@ -51,7 +41,21 @@
   image: sagi.png
   email: sagi.shaier@colorado.edu
   start: 08/2021
+  github: shaier
+  website: https://shaier.github.io/
 
+- name: Enora Rice
+  description: I am a first-year PhD student in computer science jointly advised by Katharina Kann and Alexis Palmer. My research interests center around developing universal natural language processing methods with an emphasis on low-resource/marginalized languages. I am particularly interested in creating tools that support language education. Previously, I worked on intelligent tutoring systems and language revitalization for Indigenous American languages.
+  image: enora.jpeg
+  email: enora.rice@colorado.edu
+  start: 08/2022
+  
+- name: Maria Valentini
+  description: I am a first-year PhD student at CU Boulder advised by Katharina Kann. My current research is focused on natural language processing, particularly as it pertains to accessibility technology, natural language generation, and computational linguistics. I obtained undergraduate degrees in Mathematics and Computer Information Systems from the College of St. Scholastica in May 2022, where I played on the collegiate tennis team. In my spare time, I enjoy music, reading, exploring new places, and hanging out with friends.
+  image: mariavalentini.jpg
+  email: maria.valentini@colorado.edu
+  start: 08/2022
+  
 - name: Cory Paik
   description: I am a second-year master student in computer science at CU Boulder. My research interests are in the development of AI systems that are able to comprehend the natural world in profound ways. My current project is investigating the behavior of NLP models within this context. Prior to this, I completed my undergraduate in computer science here at CU.
   image: corypaik.jpg
@@ -59,13 +63,6 @@
   email: cory.paik@colorado.edu
   linkedin: https://www.linkedin.com/in/corypaik/
   start: 11/2020
-  
-- name: Arvind Sreenivas
-  description: I am a first-year master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
-  image: arvind_sreenivas.jpeg
-  linkedin: https://www.linkedin.com/in/sreenivasarvind/
-  email: arvind.sreenivas@colorado.edu
-  start: 08/2021
   
 - name: Nishant Bhattacharya
   description: I'm a first year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
