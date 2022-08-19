@@ -7,14 +7,14 @@
   website: https://kelina.github.io
 
 - name: Abteen Ebrahimi
-  description: I'm a second-year PhD student advised by Prof. Katharina Kann. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
+  description: I'm a third-year PhD student advised by Prof. Katharina Kann. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
   image: abteen_ebrahimi.jpg
   email: abteen.ebrahimi@colorado.edu
   github: abteen
   start: 08/2020
 
 - name: Ananya Ganesh
-  description: I am a second-year PhD student advised by Profs. Katharina Kann and Martha Palmer. I'm broadly interested in natural language processing as applied to educational settings, and I’m currently working on developing NLP models to understand and improve classroom discourse. Previously, I was a research engineer in the NLP & Speech Research group at the Educational Testing Service (ETS) and I received a Master's in Computer Science from UMass Amherst. In my free time, I enjoy reading fantasy fiction, solving puzzles, and exploring Boulder.
+  description: I am a third-year PhD student advised by Profs. Katharina Kann and Martha Palmer. I'm broadly interested in natural language processing as applied to educational settings, and I’m currently working on developing NLP models to understand and improve classroom discourse. Previously, I was a research engineer in the NLP & Speech Research group at the Educational Testing Service (ETS) and I received a Master's in Computer Science from UMass Amherst. In my free time, I enjoy reading fantasy fiction, solving puzzles, and exploring Boulder.
   image: ananya_ganesh.jpg
   github: ananyaganesh
   email: ananya.ganesh@colorado.edu
@@ -30,7 +30,7 @@
   start: 08/2020
 
 - name: Adam Wiemerslage
-  description: I am a first-year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
+  description: I am a second-year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
   image: adam_wiemerslage.jpg
   github: adamits
   email: adam.wiemerslage@colorado.edu
@@ -65,7 +65,7 @@
   start: 11/2020
   
 - name: Nishant Bhattacharya
-  description: I'm a first year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
+  description: I'm a second-year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
   image: nishant.jpg
   linkedin: https://www.linkedin.com/in/nishant-bhattacharya-a41396101/
   github: nishantb21
@@ -73,7 +73,7 @@
   start: 10/2021
   
 - name: Abhishek Purushothama
-  description: I am a first-year master's student in computer science at CU Boulder. My interests are in natural language processing and its applications. I am currently exploring multilingual and cross-lingual NLP. Before this, I was a software engineer at VMware for 4 years.  Outside of work, I enjoy reading,  watching TV shows, board games, and occasionally biking.
+  description: I am a second-year master's student in computer science at CU Boulder. My interests are in natural language processing and its applications. I am currently exploring multilingual and cross-lingual NLP. Before this, I was a software engineer at VMware for 4 years.  Outside of work, I enjoy reading,  watching TV shows, board games, and occasionally biking.
   image: abhishek.jpg
   website: https://abhishek-p.github.io/
   github: abhishek-p
@@ -81,7 +81,7 @@
   start: 11/2021
   
 - name: Rohan Das
-  description: I am a first-year master's student in Computer Science. My research interests are broadly in Natural Language Processing with a focus on Computational Creativity. I am specifically interested in whether large language models can understand/generate creative text as well as maintain figurative aspects of language when applied to tasks like machine translation. Currently, I am working on exploring how to beneficially use morphological information within pre-trained transformer models for machine translation. Previously I was a software engineer in industry, where I worked on problems in the enterprise content management domain. Outside of work, I am an amateur aquascaper and I enjoy attending concerts and reading long-form sports journalism.
+  description: I am a second-year master's student in Computer Science. My research interests are broadly in Natural Language Processing with a focus on Computational Creativity. I am specifically interested in whether large language models can understand/generate creative text as well as maintain figurative aspects of language when applied to tasks like machine translation. Currently, I am working on exploring how to beneficially use morphological information within pre-trained transformer models for machine translation. Previously I was a software engineer in industry, where I worked on problems in the enterprise content management domain. Outside of work, I am an amateur aquascaper and I enjoy attending concerts and reading long-form sports journalism.
   image: rohan.jpg
   email: Rohan.Das@colorado.edu
   linkedin: https://linkedin.com/in/rohdas
@@ -100,7 +100,7 @@
   start: 12/2020
   
 - name: Zoe Stewart
-  description: This fall I will be a fourth-year undergraduate in computer science, with a minor in linguistics. I am mostly interested in the fields of NLP and computational linguistics, and their applications in increasing accessibility for disadvantaged communities. This last year I worked with the RISE IRT through the Discovery Learning Apprenticeship (DLA), where I learned how to use ArcGIS and RStudio to analyse the unique vulnerability and hazard exposure of incarceration facilities in the United States. Prior to university, I spent a gap year in Taipei to study Mandarin Chinese, and in my free time I enjoy trying to not lose my Chinese, reading, skiing, cooking, and any/all river activities.
+  description: I'm a fourth-year undergraduate in computer science, with a minor in linguistics. I am mostly interested in the fields of NLP and computational linguistics, and their applications in increasing accessibility for disadvantaged communities. This last year I worked with the RISE IRT through the Discovery Learning Apprenticeship (DLA), where I learned how to use ArcGIS and RStudio to analyse the unique vulnerability and hazard exposure of incarceration facilities in the United States. Prior to university, I spent a gap year in Taipei to study Mandarin Chinese, and in my free time I enjoy trying to not lose my Chinese, reading, skiing, cooking, and any/all river activities.
   image: zoe_stewart.jpg
   email: zoe.stewart@colorado.edu
   start: 04/2022
