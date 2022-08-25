@@ -86,6 +86,12 @@
   email: Rohan.Das@colorado.edu
   linkedin: https://linkedin.com/in/rohdas
   start: 09/2021
+  
+- name: Satviki Pathak
+  description: I am a second-year master's student in computer science. I am broadly interested in natural language processing and currently working on the evaluation of dialogue systems. Previously, I worked as a software engineer at UBS for a year. In my free time, I enjoy reading, listening to music and playing badminton.
+  image: satviki.jpg
+  email: satviki.pathak@colorado.edu
+  start: 08/2022
 
 - name: Trevor Hall
   description: I'm a recent graduate from CU Boulder looking to pursue a master's degree in computer science. I am broadly interested in exploring NLP applications to make the world a better place. My current project is focused on utilizing NLP in the early-educational space, specifically using language models to produce materials which result in improved academic outcomes. Previously, I studied information analytics at CU and worked a number of positions using computation and analysis to improve the campus community. In my free time, I enjoy undertaking small projects, reading, or playing the guitar, football, or video games.
