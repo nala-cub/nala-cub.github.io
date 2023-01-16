@@ -64,6 +64,12 @@
   linkedin: https://www.linkedin.com/in/corypaik/
   start: 11/2020
   
+- name: Dorothea French
+  description: I'm a first-year PhD student, interested in NLP for education; especially language learning research and teaching methods. I'd also like to explore dialogue systems, multilingual NLP, and semantics, and their applications in this field. Currently I'm working on a project to determine whether language models and young English second-language learners make similar grammatical mistakes in English. In my free time, I enjoy playing board games, reading, and trying new food and drinks.
+  image: new_dorothea.jpg
+  email: dorothea.french@colorado.edu
+  start: 12/2020
+  
 - name: Nishant Bhattacharya
   description: I'm a second-year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
   image: nishant.jpg
@@ -92,18 +98,34 @@
   image: satviki.jpg
   email: satviki.pathak@colorado.edu
   start: 08/2022
+  
+- name: Chiranthan Sridhar
+  description: I am a first-year master's student in computer science at CU. My current interests in NLP are evaluating factuality of language models and building applications for the low-resource setting. Before coming to CU, I worked as a software developer in Cisco for over 3 years. I am an amateur pianist, I like badminton and swimming and I watch TV shows in my free time.
+  image: chiranthan.webp
+  email: chiranthan.sridhar@colorado.edu
+  start: 01/2023
+  github: https://github.com/chiranthans23
+  website: https://chiranthans23.github.io/
+  linkedin: https://www.linkedin.com/in/chiranthans23/
+  
+- name: Rachna Konigari
+  description: I am a first-year graduate student in computer science. I am broadly interested in collaborative dialogue agents and their application to different domains. I have previously worked with detection of off-topic utterances from a human--human conversation and also on automatic question generation. I love to explore the intersection between NLP and HCI. Prior to coming to UCB, I was working in the industry as a data scientist to help understand multi-word expressions in Indic languages. I have completed my bachelor's in computer science and master's in computational linguistics in IIIT Hyderabad, where my thesis was broadly exploring the interactive responses that can be generated in conversational systems. In my free time, I love writing poems, playing the piano, and hiking with my friends.
+  image: rachnakonigari.jpg
+  email: konigari.rachna@colorado.edu
+  start: 01/2023
+  
+- name: George Baker
+  description: I'm a remote student in the Data Science M.S. program at CU Boulder, based out of Salt Lake City, Utah. I'm interested in applied AI and ML, most recently in the context of NLP. During the Fall 2022 semester I served as a student assistant with the CLEAR lab where I worked with NLP researchers to produce a multilingual (Spanish and English) event coreference dataset as a part of the AIDA project. In the past I've also been interested in the applications of AI and ML to drug design, chem/bioinformatics, and finance. In my free time I enjoy mountain biking, backcountry skiing, and playing classical guitar.
+  image: georgebaker.jpg
+  email: geba2844@colorado.edu
+  linkedin: https://www.linkedin.com/in/georgeabaker/
+  start: 01/2023
 
 - name: Trevor Hall
   description: I'm a recent graduate from CU Boulder looking to pursue a master's degree in computer science. I am broadly interested in exploring NLP applications to make the world a better place. My current project is focused on utilizing NLP in the early-educational space, specifically using language models to produce materials which result in improved academic outcomes. Previously, I studied information analytics at CU and worked a number of positions using computation and analysis to improve the campus community. In my free time, I enjoy undertaking small projects, reading, or playing the guitar, football, or video games.
   image: trevor_hall.jpg
   email: trevor.hall@colorado.edu
   start: 06/2022
-  
-- name: Dorothea French
-  description: I'm a fourth-year undergraduate student, interested in NLP for education; especially language learning research and teaching methods. I'd also like to explore dialogue systems, multilingual NLP, and semantics, and their applications in this field. Currently I'm working on a project to determine whether language models and young English second-language learners make similar grammatical mistakes in English. In my free time, I enjoy playing board games, reading, and trying new food and drinks.
-  image: new_dorothea.jpg
-  email: dorothea.french@colorado.edu
-  start: 12/2020
   
 - name: Zoe Stewart
   description: I'm a fourth-year undergraduate in computer science, with a minor in linguistics. I am mostly interested in the fields of NLP and computational linguistics, and their applications in increasing accessibility for disadvantaged communities. This last year I worked with the RISE IRT through the Discovery Learning Apprenticeship (DLA), where I learned how to use ArcGIS and RStudio to analyse the unique vulnerability and hazard exposure of incarceration facilities in the United States. Prior to university, I spent a gap year in Taipei to study Mandarin Chinese, and in my free time I enjoy trying to not lose my Chinese, reading, skiing, cooking, and any/all river activities.
