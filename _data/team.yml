@@ -86,6 +86,15 @@
   email: Abhishek.Purushothama@colorado.edu
   start: 11/2021
   
+- name: Arvind Sreenivas
+  description: I am a first-year master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
+  image: arvind_sreenivas.jpeg
+  linkedin: https://www.linkedin.com/in/sreenivasarvind/
+  email: arvind.sreenivas@colorado.edu
+  level: master's student
+  start: 08/2021
+  end: 05/2022
+  
 - name: Rohan Das
   description: I am a second-year master's student in Computer Science. My research interests are broadly in Natural Language Processing with a focus on Computational Creativity. I am specifically interested in whether large language models can understand/generate creative text as well as maintain figurative aspects of language when applied to tasks like machine translation. Currently, I am working on exploring how to beneficially use morphological information within pre-trained transformer models for machine translation. Previously I was a software engineer in industry, where I worked on problems in the enterprise content management domain. Outside of work, I am an amateur aquascaper and I enjoy attending concerts and reading long-form sports journalism.
   image: rohan.jpg

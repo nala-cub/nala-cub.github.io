@@ -87,6 +87,7 @@
   description: I'm a first-year undergraduate student at CUB majoring in CS. I'm interested in many fields in CS but data science is what interests me the most. In my free time, I enjoy discovering Riyadh valleys, playing tennis, and reading in philosophy and pre-Islamic poetry.
   image: musaad.jpeg
   email: mual3678@colorado.edu
+  level: undergraduate student
   start: 10/2021
   end: 05/2022
 
@@ -98,13 +99,7 @@
   email: shiran.dudy@colorado.edu
   website: http://www.shirandudy.com/
   twitter: shirandudy
+  level: postdoc
   start: 04/2021
   end: 07/2022
   
-- name: Arvind Sreenivas
-  description: I am a first-year master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
-  image: arvind_sreenivas.jpeg
-  linkedin: https://www.linkedin.com/in/sreenivasarvind/
-  email: arvind.sreenivas@colorado.edu
-  start: 08/2021
-  end: 05/2022
