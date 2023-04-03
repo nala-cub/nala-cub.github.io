@@ -70,6 +70,12 @@
   email: dorothea.french@colorado.edu
   start: 12/2020
   
+- name: Ali Marashian
+  description: I'm a first-year PhD student, and I'm interested in NLP for low-resource languages.
+  image: ali_marashian.JPG
+  email: Ali.Marashian@colorado.edu
+  start: 01/2023
+  
 - name: Nishant Bhattacharya
   description: I'm a second-year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
   image: nishant.jpg
