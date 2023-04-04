@@ -71,7 +71,7 @@
   start: 12/2020
   
 - name: Ali Marashian
-  description: I'm a first-year PhD student, and I'm interested in NLP for low-resource languages.
+  description: I'm a first-year PhD student, jointly advised by Professors Katharina Kann and Alexis Palmer. I'm broadly interested in NLP for low-resource languages and incorporating linguistic knowledge into models. Right now I'm working on domain adaptation with limited resources, and I used to work on data augmentation.
   image: ali_marashian.JPG
   email: Ali.Marashian@colorado.edu
   start: 01/2023
