@@ -82,6 +82,20 @@
   email: Ali.Marashian@colorado.edu
   start: 01/2023
   
+- name: Aaron Gluck
+  description: I am a first-year PhD student advised by Katharina Kann and Maria Pacheco. I obtained my undergraduate degree in computer science at the University of Delaware. My current research interests are in NLP for education, question generation, and multilingual NLP. From a methods perspective, much of my future work will likely be neuro-symbolic in nature. I also have a recreational interest in more general AI theory aimed at improving upon current methods. Most of my free time is spent in the ice rink, hiking, playing cards, or assembling custom mechanical keyboards.
+  image: aarongluck.jpg
+  email: aagl3791@colorado.edu
+  start: 08/2023
+  
+- name: Minh Duc Bui
+  description: I'm a PhD student at JGU Mainz, advised by Katharina Kann. My research revolves around analyzing and developing techniques to enhance the transferability, efficiency, and adaptability of NLP models across various tasks and languages. Prior to this, I completed my bachelor's degree in "Mathematics in Business and Economics", and subsequently pursued a master's degree in "Data Science" with a strong emphasis on NLP. Following the completion of my master's degree, I transitioned into the industry, where I worked as a data scientist in the autonomous driving field.
+  image: ducbui.jpg
+  email: minbui@uni-mainz.de
+  linkedin: https://www.linkedin.com/in/minh-duc-bui/
+  website: https://minhducbui.github.io/
+  start: 09/2023
+  
 - name: Nishant Bhattacharya
   description: I'm a second-year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
   image: nishant.jpg
