@@ -103,3 +103,26 @@
   start: 04/2021
   end: 07/2022
   
+- name: Trevor Hall
+  description: I'm a recent graduate from CU Boulder looking to pursue a master's degree in computer science. I am broadly interested in exploring NLP applications to make the world a better place. My current project is focused on utilizing NLP in the early-educational space, specifically using language models to produce materials which result in improved academic outcomes. Previously, I studied information analytics at CU and worked a number of positions using computation and analysis to improve the campus community. In my free time, I enjoy undertaking small projects, reading, or playing the guitar, football, or video games.
+  image: trevor_hall.jpg
+  email: trevor.hall@colorado.edu
+  start: 06/2022
+  end: 05/2023
+  level: graduated undergraduate student
+  
+- name: Zoe Stewart
+  description: I'm a fourth-year undergraduate in computer science, with a minor in linguistics. I am mostly interested in the fields of NLP and computational linguistics, and their applications in increasing accessibility for disadvantaged communities. This last year I worked with the RISE IRT through the Discovery Learning Apprenticeship (DLA), where I learned how to use ArcGIS and RStudio to analyse the unique vulnerability and hazard exposure of incarceration facilities in the United States. Prior to university, I spent a gap year in Taipei to study Mandarin Chinese, and in my free time I enjoy trying to not lose my Chinese, reading, skiing, cooking, and any/all river activities.
+  image: zoe_stewart.jpg
+  email: zoe.stewart@colorado.edu
+  start: 04/2022
+  end: 05/2023
+  level: undergraduate student
+  
+- name: Satviki Pathak
+  description: I am a second-year master's student in computer science. I am broadly interested in natural language processing and currently working on the evaluation of dialogue systems. Previously, I worked as a software engineer at UBS for a year. In my free time, I enjoy reading, listening to music and playing badminton.
+  image: satviki.jpg
+  email: satviki.pathak@colorado.edu
+  start: 08/2022
+  end: 05/2023
+  level: master's student

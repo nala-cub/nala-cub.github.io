@@ -1,4 +1,4 @@
-- name: Katharina Kann
+- name: Katharina von der Wense (neé Kann)
   description: I’m an Assistant Professor of Computer Science at CU Boulder, where I work on natural language processing (NLP) and machine learning. Research-wise, I am interested in multilingual NLP (how can we make NLP systems work for all of the world’s languages?), transfer learning (how can models use knowledge gained from a source task for a target task?), and computational morphology (how can models learn about and leverage subword information?). More generally, circumstances permitting, I spend a lot of my time traveling, dancing, hiking, biking, and scuba diving, and I love sushi, ice cream and watermelons.
   image: katharina_kann_summer.jpg
   github: Kelina
@@ -7,20 +7,20 @@
   website: https://kelina.github.io
   
 - name: Luke Gessler
-  description: I am a postdoc with Prof. Katharina Kann in the computer science department. Previously, I obtained my Ph.D. in computational linguistics from Georgetown University. My major interest is in low-resource NLP, and my dissertation focused in particular on obtaining and evaluating low-resource word representations. I am especially interested in low-resource NLP as it relates to the language documentation, which is the process of recording a language's lexicon and grammar. I have also worked on lexical semantics, linguistically rich dataset development, and various structured prediction tasks. Outside of work, I love cooking East and South Asian food and brewing makgeolli, a traditional Korean drink made from rice.
+  description: I am a postdoc with Prof. Katharina von der Wense in the computer science department. Previously, I obtained my Ph.D. in computational linguistics from Georgetown University. My major interest is in low-resource NLP, and my dissertation focused in particular on obtaining and evaluating low-resource word representations. I am especially interested in low-resource NLP as it relates to the language documentation, which is the process of recording a language's lexicon and grammar. I have also worked on lexical semantics, linguistically rich dataset development, and various structured prediction tasks. Outside of work, I love cooking East and South Asian food and brewing makgeolli, a traditional Korean drink made from rice.
   image: luke_gessler.jpg
   email: luge2135@colorado.edu
   start: 08/2023
 
 - name: Abteen Ebrahimi
-  description: I'm a third-year PhD student advised by Prof. Katharina Kann. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
+  description: I'm a third-year PhD student advised by Prof. Katharina von der Wense. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
   image: abteen_ebrahimi.jpg
   email: abteen.ebrahimi@colorado.edu
   github: abteen
   start: 08/2020
 
 - name: Ananya Ganesh
-  description: I am a third-year PhD student advised by Profs. Katharina Kann and Martha Palmer. I'm broadly interested in natural language processing as applied to educational settings, and I’m currently working on developing NLP models to understand and improve classroom discourse. Previously, I was a research engineer in the NLP & Speech Research group at the Educational Testing Service (ETS) and I received a Master's in Computer Science from UMass Amherst. In my free time, I enjoy reading fantasy fiction, solving puzzles, and exploring Boulder.
+  description: I am a third-year PhD student advised by Profs. Katharina von der Wense and Martha Palmer. I'm broadly interested in natural language processing as applied to educational settings, and I’m currently working on developing NLP models to understand and improve classroom discourse. Previously, I was a research engineer in the NLP & Speech Research group at the Educational Testing Service (ETS) and I received a Master's in Computer Science from UMass Amherst. In my free time, I enjoy reading fantasy fiction, solving puzzles, and exploring Boulder.
   image: ananya_ganesh.jpg
   github: ananyaganesh
   email: ananya.ganesh@colorado.edu
@@ -28,7 +28,7 @@
   start: 08/2020
   
 - name: Stéphane Aroca-Ouellette
-  description: After completing my undergrad at University of Toronto in computer engineering, I pursued my masters in computer science with a focus on natural language processing. While investigating new auxiliary tasks for BERT pre-training, I saw the power of modern language models while learning the inherent limitation of inhabiting purely textual environments. Co-advised by Alessandro Roncone and Katharina Kann, I am now working towards my PhD at CU Boulder to answer how robotics can help ground language in the real world and how language can help our interaction and collaboration with robots.
+  description: After completing my undergrad at University of Toronto in computer engineering, I pursued my masters in computer science with a focus on natural language processing. While investigating new auxiliary tasks for BERT pre-training, I saw the power of modern language models while learning the inherent limitation of inhabiting purely textual environments. Co-advised by Alessandro Roncone and Katharina von der Wense, I am now working towards my PhD at CU Boulder to answer how robotics can help ground language in the real world and how language can help our interaction and collaboration with robots.
   image: stephane.jpg
   email: stephane.aroca-ouellette@colorado.edu 
   github: StephAO
@@ -36,14 +36,14 @@
   start: 08/2020
 
 - name: Adam Wiemerslage
-  description: I am a second-year PhD student in computer science advised by Katharina Kann. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
+  description: I am a second-year PhD student in computer science advised by Katharina von der Wense. My research interests are in natural language processing, particularly relating to computational morphology, under-represented languages, and multilingual models. I am especially interested in machine learning models that draw upon or explore linguistic insights. Previously I was a research scientist in industry, and before that I spent a year at a government laboratory, which has given me broad experience in various subareas of NLP. In my free time, I strive to be a good Coloradoan by hiking/biking/camping/climbing as well as brewing/tasting beer.
   image: adam_wiemerslage.jpg
   github: adamits
   email: adam.wiemerslage@colorado.edu
   start: 01/2021
   
 - name: Sagi Shaier
-  description: Currently a PhD student at CU Boulder, advised by Katharina Kann and Lawrence Hunter. I completed my undergraduate degree in computational and applied mathematics on the pre-med track with a focus on epidemiology. Later I worked in the industry for about 1.5 years in various machine learning & data science positions. My sights are set on using the intersection of artificial intelligence and neuroscience to improve people’s lives. My research interests are artificial general intelligence, dialogue systems, knowledge graphs, factuality, dynamic systems, continual learning, online learning, and biologically inspired algorithms. More specifically, developing medical dialogue systems that are factual, interpretable, validatable, and incorporate knowledge graphs. Outside of academia I spend most of my time practicing Muay Thai, hiking with my puppy, baking, and going on spontaneous road trips.
+  description: Currently a PhD student at CU Boulder, advised by Katharina von der Wense and Lawrence Hunter. I completed my undergraduate degree in computational and applied mathematics on the pre-med track with a focus on epidemiology. Later I worked in the industry for about 1.5 years in various machine learning & data science positions. My sights are set on using the intersection of artificial intelligence and neuroscience to improve people’s lives. My research interests are artificial general intelligence, dialogue systems, knowledge graphs, factuality, dynamic systems, continual learning, online learning, and biologically inspired algorithms. More specifically, developing medical dialogue systems that are factual, interpretable, validatable, and incorporate knowledge graphs. Outside of academia I spend most of my time practicing Muay Thai, hiking with my puppy, baking, and going on spontaneous road trips.
   image: sagi.png
   email: sagi.shaier@colorado.edu
   start: 08/2021
@@ -51,13 +51,13 @@
   website: https://shaier.github.io/
 
 - name: Enora Rice
-  description: I am a first-year PhD student in computer science jointly advised by Katharina Kann and Alexis Palmer. My research interests center around developing universal natural language processing methods with an emphasis on low-resource/marginalized languages. I am particularly interested in creating tools that support language education. Previously, I worked on intelligent tutoring systems and language revitalization for Indigenous American languages.
+  description: I am a first-year PhD student in computer science jointly advised by Katharina von der Wense and Alexis Palmer. My research interests center around developing universal natural language processing methods with an emphasis on low-resource/marginalized languages. I am particularly interested in creating tools that support language education. Previously, I worked on intelligent tutoring systems and language revitalization for Indigenous American languages.
   image: enora.jpeg
   email: enora.rice@colorado.edu
   start: 08/2022
   
 - name: Maria Valentini
-  description: I am a first-year PhD student at CU Boulder advised by Katharina Kann. My current research is focused on natural language processing, particularly as it pertains to accessibility technology, natural language generation, and computational linguistics. I obtained undergraduate degrees in Mathematics and Computer Information Systems from the College of St. Scholastica in May 2022, where I played on the collegiate tennis team. In my spare time, I enjoy music, reading, exploring new places, and hanging out with friends.
+  description: I am a first-year PhD student at CU Boulder advised by Katharina von der Wense. My current research is focused on natural language processing, particularly as it pertains to accessibility technology, natural language generation, and computational linguistics. I obtained undergraduate degrees in Mathematics and Computer Information Systems from the College of St. Scholastica in May 2022, where I played on the collegiate tennis team. In my spare time, I enjoy music, reading, exploring new places, and hanging out with friends.
   image: mariavalentini.jpg
   email: maria.valentini@colorado.edu
   start: 08/2022
@@ -77,19 +77,19 @@
   start: 12/2020
   
 - name: Ali Marashian
-  description: I'm a first-year PhD student, jointly advised by Professors Katharina Kann and Alexis Palmer. I'm broadly interested in NLP for low-resource languages and incorporating linguistic knowledge into models. Right now I'm working on domain adaptation with limited resources, and I used to work on data augmentation.
+  description: I'm a first-year PhD student, jointly advised by Professors Katharina von der Wense and Alexis Palmer. I'm broadly interested in NLP for low-resource languages and incorporating linguistic knowledge into models. Right now I'm working on domain adaptation with limited resources, and I used to work on data augmentation.
   image: ali_marashian.JPG
   email: Ali.Marashian@colorado.edu
   start: 01/2023
   
 - name: Aaron Gluck
-  description: I am a first-year PhD student advised by Katharina Kann and Maria Pacheco. I obtained my undergraduate degree in computer science at the University of Delaware. My current research interests are in NLP for education, question generation, and multilingual NLP. From a methods perspective, much of my future work will likely be neuro-symbolic in nature. I also have a recreational interest in more general AI theory aimed at improving upon current methods. Most of my time is spent in the ice rink, hiking, playing cards, or assembling custom mechanical keyboards.
+  description: I am a first-year PhD student advised by Katharina von der Wense and Maria Pacheco. I obtained my undergraduate degree in computer science at the University of Delaware. My current research interests are in NLP for education, question generation, and multilingual NLP. From a methods perspective, much of my future work will likely be neuro-symbolic in nature. I also have a recreational interest in more general AI theory aimed at improving upon current methods. Most of my time is spent in the ice rink, hiking, playing cards, or assembling custom mechanical keyboards.
   image: aarongluck.jpg
   email: aagl3791@colorado.edu
   start: 08/2023
   
 - name: Minh Duc Bui
-  description: I'm a PhD student at JGU Mainz, advised by Katharina Kann. My research revolves around analyzing and developing techniques to enhance the transferability, efficiency, and adaptability of NLP models across various tasks and languages. Prior to this, I completed my bachelor's degree in "Mathematics in Business and Economics", and subsequently pursued a master's degree in "Data Science" with a strong emphasis on NLP. Following the completion of my master's degree, I transitioned into the industry, where I worked as a data scientist in the autonomous driving field.
+  description: I'm a PhD student at JGU Mainz, advised by Katharina von der Wense. My research revolves around analyzing and developing techniques to enhance the transferability, efficiency, and adaptability of NLP models across various tasks and languages. Prior to this, I completed my bachelor's degree in "Mathematics in Business and Economics", and subsequently pursued a master's degree in "Data Science" with a strong emphasis on NLP. Following the completion of my master's degree, I transitioned into the industry, where I worked as a data scientist in the autonomous driving field.
   image: ducbui.jpg
   email: minbui@uni-mainz.de
   linkedin: https://www.linkedin.com/in/minh-duc-bui/
@@ -128,12 +128,6 @@
   linkedin: https://linkedin.com/in/rohdas
   start: 09/2021
   
-- name: Satviki Pathak
-  description: I am a second-year master's student in computer science. I am broadly interested in natural language processing and currently working on the evaluation of dialogue systems. Previously, I worked as a software engineer at UBS for a year. In my free time, I enjoy reading, listening to music and playing badminton.
-  image: satviki.jpg
-  email: satviki.pathak@colorado.edu
-  start: 08/2022
-  
 - name: Chiranthan Sridhar
   description: I am a first-year master's student in computer science at CU. My current interests in NLP are evaluating factuality of language models and building applications for the low-resource setting. Before coming to CU, I worked as a software developer in Cisco for over 3 years. I am an amateur pianist, I like badminton and swimming and I watch TV shows in my free time.
   image: chiranthan.webp
@@ -149,21 +143,15 @@
   email: konigari.rachna@colorado.edu
   start: 01/2023
   
+- name: Ankush Raut
+  description: I'm a first-year master's student in data science. For the past 4 years, I have worked as a data scientist, tackling problem statements across various domains, including supply chain management, retail, healthcare, FMCG, and payment gateways, among others. Currently, I'm focused on understanding how language models interpret context and how much information they can actually retrieve from multiple contexts. Specifically, my work involves developing a multi-hop question-answering system with up to 4 hops. In my free time, I have a passion for playing Blues guitar, a hobby I've enjoyed for the past couple of years. I am also an avid soccer player and enjoy exploring lake trails.
+  image: ankushraut.jpg
+  email: ankush.raut@colorado.edu
+  start: 08/2023
+  
 - name: George Baker
   description: I'm a remote student in the Data Science M.S. program at CU Boulder, based out of Salt Lake City, Utah. I'm interested in applied AI and ML, most recently in the context of NLP. During the Fall 2022 semester I served as a student assistant with the CLEAR lab where I worked with NLP researchers to produce a multilingual (Spanish and English) event coreference dataset as a part of the AIDA project. In the past I've also been interested in the applications of AI and ML to drug design, chem/bioinformatics, and finance. In my free time I enjoy mountain biking, backcountry skiing, and playing classical guitar.
   image: georgebaker.jpg
   email: geba2844@colorado.edu
   linkedin: https://www.linkedin.com/in/georgeabaker/
   start: 01/2023
-
-- name: Trevor Hall
-  description: I'm a recent graduate from CU Boulder looking to pursue a master's degree in computer science. I am broadly interested in exploring NLP applications to make the world a better place. My current project is focused on utilizing NLP in the early-educational space, specifically using language models to produce materials which result in improved academic outcomes. Previously, I studied information analytics at CU and worked a number of positions using computation and analysis to improve the campus community. In my free time, I enjoy undertaking small projects, reading, or playing the guitar, football, or video games.
-  image: trevor_hall.jpg
-  email: trevor.hall@colorado.edu
-  start: 06/2022
-  
-- name: Zoe Stewart
-  description: I'm a fourth-year undergraduate in computer science, with a minor in linguistics. I am mostly interested in the fields of NLP and computational linguistics, and their applications in increasing accessibility for disadvantaged communities. This last year I worked with the RISE IRT through the Discovery Learning Apprenticeship (DLA), where I learned how to use ArcGIS and RStudio to analyse the unique vulnerability and hazard exposure of incarceration facilities in the United States. Prior to university, I spent a gap year in Taipei to study Mandarin Chinese, and in my free time I enjoy trying to not lose my Chinese, reading, skiing, cooking, and any/all river activities.
-  image: zoe_stewart.jpg
-  email: zoe.stewart@colorado.edu
-  start: 04/2022

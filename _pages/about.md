@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the website of the Kann Natural Language Processing Group (NALA), whose two homes are <a href="https://www.colorado.edu" target="_blank">University of Colorado Boulder</a>, USA, and, starting soon, also <a href="https://homepage.uni-mainz.de" target="_blank">Johannes Gutenberg University Mainz</a>, Germany!
+Welcome to the website of the von der Wense Natural Language Processing Group (NALA), whose two homes are <a href="https://www.colorado.edu" target="_blank">University of Colorado Boulder</a>, USA, and <a href="https://homepage.uni-mainz.de" target="_blank">Johannes Gutenberg University Mainz</a>, Germany!
 We develop computational models for the understanding or generation of natural language. Some of our current areas of interest are:
 
 - Universal natural language processing and transfer learning
