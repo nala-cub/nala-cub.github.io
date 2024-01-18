@@ -97,7 +97,7 @@
   start: 09/2023
   
 - name: Nishant Bhattacharya
-  description: I'm a second-year master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
+  description: I'm a master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
   image: nishant.jpg
   linkedin: https://www.linkedin.com/in/nishant-bhattacharya-a41396101/
   github: nishantb21
@@ -105,7 +105,7 @@
   start: 10/2021
   
 - name: Abhishek Purushothama
-  description: I am a second-year master's student in computer science at CU Boulder. My interests are in natural language processing and its applications. I am currently exploring multilingual and cross-lingual NLP. Before this, I was a software engineer at VMware for 4 years.  Outside of work, I enjoy reading,  watching TV shows, board games, and occasionally biking.
+  description: I am a master's student in computer science at CU Boulder. My interests are in natural language processing and its applications. I am currently exploring multilingual and cross-lingual NLP. Before this, I was a software engineer at VMware for 4 years.  Outside of work, I enjoy reading,  watching TV shows, board games, and occasionally biking.
   image: abhishek.jpg
   website: https://abhishek-p.github.io/
   github: abhishek-p
@@ -113,7 +113,7 @@
   start: 11/2021
   
 - name: Arvind Sreenivas
-  description: I am a first-year master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
+  description: I am a master's student in computer science at CU Boulder. My research interests are in the area of low-resource languages and machine translation that would help breach the language resource gap amongst people. Currently I’m working on observing the effects of hyperparameters on LSTMs & Transformers along with the impact that types of words might have on them. I enjoy watching TV shows, exploring the outdoors and making impromptu plans with friends!
   image: arvind_sreenivas.jpeg
   linkedin: https://www.linkedin.com/in/sreenivasarvind/
   email: arvind.sreenivas@colorado.edu
@@ -122,14 +122,14 @@
   end: 05/2022
   
 - name: Rohan Das
-  description: I am a second-year master's student in Computer Science. My research interests are broadly in Natural Language Processing with a focus on Computational Creativity. I am specifically interested in whether large language models can understand/generate creative text as well as maintain figurative aspects of language when applied to tasks like machine translation. Currently, I am working on exploring how to beneficially use morphological information within pre-trained transformer models for machine translation. Previously I was a software engineer in industry, where I worked on problems in the enterprise content management domain. Outside of work, I am an amateur aquascaper and I enjoy attending concerts and reading long-form sports journalism.
+  description: I am a master's student in Computer Science. My research interests are broadly in Natural Language Processing with a focus on Computational Creativity. I am specifically interested in whether large language models can understand/generate creative text as well as maintain figurative aspects of language when applied to tasks like machine translation. Currently, I am working on exploring how to beneficially use morphological information within pre-trained transformer models for machine translation. Previously I was a software engineer in industry, where I worked on problems in the enterprise content management domain. Outside of work, I am an amateur aquascaper and I enjoy attending concerts and reading long-form sports journalism.
   image: rohan.jpg
   email: Rohan.Das@colorado.edu
   linkedin: https://linkedin.com/in/rohdas
   start: 09/2021
   
 - name: Chiranthan Sridhar
-  description: I am a first-year master's student in computer science at CU. My current interests in NLP are evaluating factuality of language models and building applications for the low-resource setting. Before coming to CU, I worked as a software developer in Cisco for over 3 years. I am an amateur pianist, I like badminton and swimming and I watch TV shows in my free time.
+  description: I am a master's student in computer science at CU. My current interests in NLP are evaluating factuality of language models and building applications for the low-resource setting. Before coming to CU, I worked as a software developer in Cisco for over 3 years. I am an amateur pianist, I like badminton and swimming and I watch TV shows in my free time.
   image: chiranthan.webp
   email: chiranthan.sridhar@colorado.edu
   start: 01/2023
@@ -138,16 +138,23 @@
   linkedin: https://www.linkedin.com/in/chiranthans23/
   
 - name: Rachna Konigari
-  description: I am a first-year graduate student in computer science. I am broadly interested in collaborative dialogue agents and their application to different domains. I have previously worked with detection of off-topic utterances from a human--human conversation and also on automatic question generation. I love to explore the intersection between NLP and HCI. Prior to coming to UCB, I was working in the industry as a data scientist to help understand multi-word expressions in Indic languages. I have completed my bachelor's in computer science and master's in computational linguistics in IIIT Hyderabad, where my thesis was broadly exploring the interactive responses that can be generated in conversational systems. In my free time, I love writing poems, playing the piano, and hiking with my friends.
+  description: I am a graduate student in computer science. I am broadly interested in collaborative dialogue agents and their application to different domains. I have previously worked with detection of off-topic utterances from a human--human conversation and also on automatic question generation. I love to explore the intersection between NLP and HCI. Prior to coming to UCB, I was working in the industry as a data scientist to help understand multi-word expressions in Indic languages. I have completed my bachelor's in computer science and master's in computational linguistics in IIIT Hyderabad, where my thesis was broadly exploring the interactive responses that can be generated in conversational systems. In my free time, I love writing poems, playing the piano, and hiking with my friends.
   image: rachnakonigari.jpg
   email: konigari.rachna@colorado.edu
   start: 01/2023
   
 - name: Ankush Raut
-  description: I'm a first-year master's student in data science. For the past 4 years, I have worked as a data scientist, tackling problem statements across various domains, including supply chain management, retail, healthcare, FMCG, and payment gateways, among others. Currently, I'm focused on understanding how language models interpret context and how much information they can actually retrieve from multiple contexts. Specifically, my work involves developing a multi-hop question-answering system with up to 4 hops. In my free time, I have a passion for playing Blues guitar, a hobby I've enjoyed for the past couple of years. I am also an avid soccer player and enjoy exploring lake trails.
+  description: I'm a master's student in data science. For the past 4 years, I have worked as a data scientist, tackling problem statements across various domains, including supply chain management, retail, healthcare, FMCG, and payment gateways, among others. Currently, I'm focused on understanding how language models interpret context and how much information they can actually retrieve from multiple contexts. Specifically, my work involves developing a multi-hop question-answering system with up to 4 hops. In my free time, I have a passion for playing Blues guitar, a hobby I've enjoyed for the past couple of years. I am also an avid soccer player and enjoy exploring lake trails.
   image: ankushraut.jpg
   email: ankush.raut@colorado.edu
   start: 08/2023
+  
+- name: Arunima Maitra
+  description: I am a master's student in computer science at CU Boulder. I'm broadly interested in natural language generation -- specifically its application for educational purposes. Currently I am working on a project to explore how well dialogue assistants can exhibit interpersonal synergy compared to that of professors in a classroom setting. I completed my undergraduate degree in computer science and engineering in June 2022. After that, I worked as a systems engineer for about 1 year before joining CU. In my free time, I enjoy traveling, painting, gardening, watching TV shows, and working out in the gym.
+  image: arunima_maitra.jpg
+  email: arunima.maitra@colorado.edu
+  linkedin: http://www.linkedin.com/in/arunima-maitra
+  start: 01/2024
   
 - name: George Baker
   description: I'm a remote student in the Data Science M.S. program at CU Boulder, based out of Salt Lake City, Utah. I'm interested in applied AI and ML, most recently in the context of NLP. During the Fall 2022 semester I served as a student assistant with the CLEAR lab where I worked with NLP researchers to produce a multilingual (Spanish and English) event coreference dataset as a part of the AIDA project. In the past I've also been interested in the applications of AI and ML to drug design, chem/bioinformatics, and finance. In my free time I enjoy mountain biking, backcountry skiing, and playing classical guitar.
