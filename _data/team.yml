@@ -149,6 +149,12 @@
   email: ankush.raut@colorado.edu
   start: 08/2023
   
+- name: Mario Choy
+  description: I am a second-year MS student in computer science at CU Boulder. Before that, I obtained my undergraduate degree in computer engineering from the University of South-Eastern Norway in May 2022. My current research interests lie in NLP for low-resource languages. In my free time, I enjoy gardening, drawing/painting, and reading.
+  image: mario_choy.jpg
+  email: mario.choy@colorado.edu
+  start: 08/2023
+  
 - name: Arunima Maitra
   description: I am a master's student in computer science at CU Boulder. I'm broadly interested in natural language generation -- specifically its application for educational purposes. Currently I am working on a project to explore how well dialogue assistants can exhibit interpersonal synergy compared to that of professors in a classroom setting. I completed my undergraduate degree in computer science and engineering in June 2022. After that, I worked as a systems engineer for about 1 year before joining CU. In my free time, I enjoy traveling, painting, gardening, watching TV shows, and working out in the gym.
   image: arunima_maitra.jpg
