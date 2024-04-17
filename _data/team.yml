@@ -169,6 +169,13 @@
   linkedin: https://www.linkedin.com/in/georgeabaker/
   start: 01/2023
   
+- name: Téa Wright
+  description: I’m a fourth-year undergraduate student in computer science. I started research through the CU SPUR program in Summer 2023, and I’m interested in both NLP for low-resource languages and psycholinguistics. I’ve worked on NLP for educational applications and am currently focused on model adaptation with low-resource language data from OCR. In my free time, I enjoy learning other languages, playing piano, reading, watching movies, and being outdoors!
+  image: tea_wright.jpeg
+  email: Tea.Wright@colorado.edu
+  linkedin: https://www.linkedin.com/in/teawright/
+  start: 05/2023
+  
 - name: Noah Schwartz
   description: I am a first-year undergraduate student in computer science working with Adam Wiemerslage and Katharina von der Wense. I'm especially interested in how machine learning models can learn transparently and efficiently in low-resource domains. Outside of school, I like to see how far I can run, hike, and ski.
   image: noahschwartz.jpeg
