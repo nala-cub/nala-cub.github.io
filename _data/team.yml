@@ -176,6 +176,14 @@
   linkedin: https://www.linkedin.com/in/teawright/
   start: 05/2023
   
+- name: Jake Ludwigson
+  description: I am a computer science student at CU Boulder, I am currently in my third year of undergraduate studies pursuing a BAM (Bachelor’s Accelerated Master’s degree) in computer science. I recently joined this team as a part of the SPUR 2024 research. I am passionate about natural language processing and linguistics. Particularly, I am interested in how we can leverage our position as computer scientists to develop better language resources for documenting and educating so that we can preserve the snapshot of culture that endangered languages represent. This summer I will be working on an HCI research project on apps for endangered language documentation. In my free time I love to apply what I have learned in the classroom to build new projects, spend time with friends and family, or do anything outdoors.
+  image: jake_lugwigson.jpg
+  email: jalu1895@colorado.edu
+  github: https://github.com/JacobLudwigson
+  linkedin: https://www.linkedin.com/in/jacob-ludwigson-a953342a9/
+  start: 05/2024
+  
 - name: Noah Schwartz
   description: I am a first-year undergraduate student in computer science working with Adam Wiemerslage and Katharina von der Wense. I'm especially interested in how machine learning models can learn transparently and efficiently in low-resource domains. Outside of school, I like to see how far I can run, hike, and ski.
   image: noahschwartz.jpeg
