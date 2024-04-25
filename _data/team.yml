@@ -184,6 +184,12 @@
   linkedin: https://www.linkedin.com/in/jacob-ludwigson-a953342a9/
   start: 05/2024
   
+- name: Robin Luo
+  description: I am a second-year undergraduate student in computer science and am planning to study for a master's through the Bachelor's Accelerated Master's program. This summer I will be a part of SPUR 2024 working with Katharina and Luke on an NLP system that helps understand and preserve indigenous languages. I am currently interested in NLP for low-resource languages and how we can use NLP to study and preserve endangered languages. In my free time, I enjoy hiking, rock climbing, and playing volleyball.
+  image: robin_luo.jpg
+  email: Robin.Luo@colorado.edu
+  start: 05/2024
+  
 - name: Noah Schwartz
   description: I am a first-year undergraduate student in computer science working with Adam Wiemerslage and Katharina von der Wense. I'm especially interested in how machine learning models can learn transparently and efficiently in low-resource domains. Outside of school, I like to see how far I can run, hike, and ski.
   image: noahschwartz.jpeg
