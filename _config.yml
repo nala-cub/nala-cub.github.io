@@ -110,7 +110,7 @@ plugins:
 
 scholar:
 
-  last_name: ['Kann', 'Fujinuma', 'Wiemerslage', 'Ebrahimi', 'Ganesh', 'Shaier', 'Aroca-Ouellette', 'Prabhu', 'Dudy', 'Bhatnagar', 'Paik', 'Gerlach', 'Singh', 'Hall', 'Valentini', 'Rice', 'French', 'von der Wense', 'Bui', 'Gessler'] # Add names to highlighting particular authors
+  last_name: ['Kann', 'Fujinuma', 'Wiemerslage', 'Ebrahimi', 'Ganesh', 'Shaier', 'Aroca-Ouellette', 'Prabhu', 'Dudy', 'Bhatnagar', 'Paik', 'Gerlach', 'Singh', 'Hall', 'Valentini', 'Rice', 'French', 'von der Wense', 'Bui', 'Gessler', 'Wright'] # Add names to highlighting particular authors
 
   style: apa
   locale: en
