@@ -126,3 +126,11 @@
   start: 08/2022
   end: 05/2023
   level: master's student
+
+- name: Luke Gessler
+  description: I am a postdoc with Prof. Katharina von der Wense in the computer science department. Previously, I obtained my Ph.D. in computational linguistics from Georgetown University. My major interest is in low-resource NLP, and my dissertation focused in particular on obtaining and evaluating low-resource word representations. I am especially interested in low-resource NLP as it relates to the language documentation, which is the process of recording a language's lexicon and grammar. I have also worked on lexical semantics, linguistically rich dataset development, and various structured prediction tasks. Outside of work, I love cooking East and South Asian food and brewing makgeolli, a traditional Korean drink made from rice.
+  image: luke_gessler.jpg
+  email: luge2135@colorado.edu
+  start: 08/2023
+  End: 08/2024
+  level: postdoc

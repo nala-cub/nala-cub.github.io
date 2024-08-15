@@ -1,16 +1,10 @@
 - name: Katharina von der Wense (neé Kann)
-  description: I’m an Assistant Professor of Computer Science at CU Boulder, where I work on natural language processing (NLP) and machine learning. Research-wise, I am interested in multilingual NLP (how can we make NLP systems work for all of the world’s languages?), transfer learning (how can models use knowledge gained from a source task for a target task?), and computational morphology (how can models learn about and leverage subword information?). More generally, circumstances permitting, I spend a lot of my time traveling, dancing, hiking, biking, and scuba diving, and I love sushi, ice cream and watermelons.
+  description: I’m an Assistant Professor of Computer Science at CU Boulder and an Associate Professor of Artificial Intelligence at JGU Mainz. My work is focussed on natural language processing (NLP) and machine learning. Research-wise, I am interested in multilingual NLP (how can we make NLP systems work for all of the world’s languages?), transfer learning (how can models use knowledge gained from a source task for a target task?), and computational morphology (how can models learn about and leverage subword information?). In my free time, I enjoy traveling, dancing, hiking, biking, and scuba diving, and I love sushi, ice cream and watermelons.
   image: katharina_kann_summer.jpg
   github: Kelina
   linkedin:
   email: katharina.kann@colorado.edu
   website: https://kelina.github.io
-  
-- name: Luke Gessler
-  description: I am a postdoc with Prof. Katharina von der Wense in the computer science department. Previously, I obtained my Ph.D. in computational linguistics from Georgetown University. My major interest is in low-resource NLP, and my dissertation focused in particular on obtaining and evaluating low-resource word representations. I am especially interested in low-resource NLP as it relates to the language documentation, which is the process of recording a language's lexicon and grammar. I have also worked on lexical semantics, linguistically rich dataset development, and various structured prediction tasks. Outside of work, I love cooking East and South Asian food and brewing makgeolli, a traditional Korean drink made from rice.
-  image: luke_gessler.jpg
-  email: luge2135@colorado.edu
-  start: 08/2023
 
 - name: Abteen Ebrahimi
   description: I'm a third-year PhD student advised by Prof. Katharina von der Wense. I'm broadly interested in multilingual NLP, with a focus on low-resource and unseen languages. Currently, I'm working on developing new resources and methods to increase model performance and community awareness for these languages. Previously, I worked on text generation and dialogue systems.
@@ -95,6 +89,13 @@
   linkedin: https://www.linkedin.com/in/minh-duc-bui/
   website: https://minhducbui.github.io/
   start: 09/2023
+
+- name: Mario Sanz Guerrero
+  description: I am a PhD student at JGU Mainz, supervised by Prof. Katharina von der Wense. My research focuses on applying artificial intelligence, particularly natural language processing, in the medical domain, motivated by achieving outcomes that make a meaningful real-world impact. I hold a bachelor's degree in computer science and a master's in artificial intelligence. Prior to my PhD, I worked as an AI engineer in the healthcare industry. Outside of research, I enjoy reading, traveling, and spending time with friends and family.
+  image: mario_sanz.jpg
+  email: msanzgue@uni-mainz.de
+  linkedin: https://www.linkedin.com/in/mariosanzguerrero/
+  start: 08/2024
   
 - name: Nishant Bhattacharya
   description: I'm a master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
