@@ -132,5 +132,41 @@
   image: luke_gessler.jpg
   email: luge2135@colorado.edu
   start: 08/2023
-  End: 08/2024
+  end: 08/2024
   level: postdoc
+
+- name: Jake Ludwigson
+  description: I am a computer science student at CU Boulder, I am currently in my third year of undergraduate studies pursuing a BAM (Bachelor’s Accelerated Master’s degree) in computer science. I recently joined this team as a part of the SPUR 2024 research. I am passionate about natural language processing and linguistics. Particularly, I am interested in how we can leverage our position as computer scientists to develop better language resources for documenting and educating so that we can preserve the snapshot of culture that endangered languages represent. This summer I will be working on an HCI research project on apps for endangered language documentation. In my free time I love to apply what I have learned in the classroom to build new projects, spend time with friends and family, or do anything outdoors.
+  image: jake_ludwigson.jpg
+  email: jalu1895@colorado.edu
+  github: https://github.com/JacobLudwigson
+  linkedin: https://www.linkedin.com/in/jacob-ludwigson-a953342a9/
+  start: 05/2024
+  end: 08/2024
+  level: undergrad
+  
+- name: Robin Luo
+  description: I am a second-year undergraduate student in computer science and am planning to study for a master's through the Bachelor's Accelerated Master's program. This summer I will be a part of SPUR 2024 working with Katharina and Luke on an NLP system that helps understand and preserve indigenous languages. I am currently interested in NLP for low-resource languages and how we can use NLP to study and preserve endangered languages. In my free time, I enjoy hiking, rock climbing, and playing volleyball.
+  image: robin_luo.jpg
+  email: Robin.Luo@colorado.edu
+  start: 05/2024
+  end: 08/2024
+  level: undergrad
+  
+- name: Noah Schwartz
+  description: I am a first-year undergraduate student in computer science working with Adam Wiemerslage and Katharina von der Wense. I'm especially interested in how machine learning models can learn transparently and efficiently in low-resource domains. Outside of school, I like to see how far I can run, hike, and ski.
+  image: noahschwartz.jpeg
+  email: nosc1301@colorado.edu
+  start: 01/2024
+  end: 08/2024
+  level: undergrad
+
+- name: Téa Wright
+  description: I’m a fourth-year undergraduate student in computer science. I started research through the CU SPUR program in Summer 2023, and I’m interested in both NLP for low-resource languages and psycholinguistics. I’ve worked on NLP for educational applications and am currently focused on model adaptation with low-resource language data from OCR. In my free time, I enjoy learning other languages, playing piano, reading, watching movies, and being outdoors!
+  image: tea_wright.jpeg
+  email: Tea.Wright@colorado.edu
+  linkedin: https://www.linkedin.com/in/teawright/
+  start: 05/2023
+  end: 05/2024
+  level: undergrad
+
