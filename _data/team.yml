@@ -169,6 +169,12 @@
   email: olhauck@students.uni-mainz.de
   start: 09/2024
   
+  - name: Laura Bensch
+  description: I am a master's student in computer science at JGU Mainz and I have a passion for linguistics and forein languages. Currently, I am working on my Master's thesis focused on sentiment analysis for Bambara, a low-resource language spoken in West Africa. I am interested in finding effective ways to address the challenges presented by small datasets. In my free time, I enjoy going to concerts, running, and I love to play cards.
+  image: laura_bensch.jpg
+  email: lbensch@students.uni-mainz.de
+  start: 09/2024
+  
 - name: George Baker
   description: I'm a remote student in the Data Science M.S. program at CU Boulder, based out of Salt Lake City, Utah. I'm interested in applied AI and ML, most recently in the context of NLP. During the Fall 2022 semester I served as a student assistant with the CLEAR lab where I worked with NLP researchers to produce a multilingual (Spanish and English) event coreference dataset as a part of the AIDA project. In the past I've also been interested in the applications of AI and ML to drug design, chem/bioinformatics, and finance. In my free time I enjoy mountain biking, backcountry skiing, and playing classical guitar.
   image: georgebaker.jpg
