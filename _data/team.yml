@@ -169,7 +169,7 @@
   email: olhauck@students.uni-mainz.de
   start: 09/2024
   
-  - name: Laura Bensch
+- name: Laura Bensch
   description: I am a master's student in computer science at JGU Mainz and I have a passion for linguistics and forein languages. Currently, I am working on my Master's thesis focused on sentiment analysis for Bambara, a low-resource language spoken in West Africa. I am interested in finding effective ways to address the challenges presented by small datasets. In my free time, I enjoy going to concerts, running, and I love to play cards.
   image: laura_bensch.jpg
   email: lbensch@students.uni-mainz.de
