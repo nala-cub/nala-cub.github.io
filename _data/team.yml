@@ -92,6 +92,12 @@
   linkedin: https://www.linkedin.com/in/mariosanzguerrero/
   start: 08/2024
   
+- name: Hossain Shaikh Saadi
+  description: I am a first-year PhD student at Johannes Gutenberg University of Mainz, advised by Prof. Dr. Katharina von der Wense, focusing on multilingual NLP. I completed my M.Sc. in Data Engineering and Analytics from the Technical University of Munich, Germany, and my B.Sc. in Computer Science and Engineering at Ahsanullah University of Science and Technology, Bangladesh. Before starting my PhD, I worked at Fraunhofer IIS, where I focused on instruction tuning and dataset synthesis using large language models. Previously, I was involved in research at LMU Munich and TU Darmstadt, working on multilingual embeddings, bilingual lexicon induction, and QA systems. I enjoy building practical NLP solutions and am passionate about making NLP more inclusive and accessible across languages.
+  image: saadi.jpg
+  email: hsaadi@uni-mainz.de
+  start: 03/2024
+  
 - name: Nishant Bhattacharya
   description: I'm a master's student at CU boulder and my interests lie in natural language understanding and grounding. Currently, I am working on a project which tries to impart the concept of negation to language models. Before pursuing my master's degree I worked on computer vision algorithms for self-driving cars as a project assistant at the Indian Institute of Science for 2.5 years. I was also part of CA Technologies as a software engineer for 7 months. Outside of academics, I love to take on pet projects like coding flight controllers or playing sports like football, badminton, and table tennis.
   image: nishant.jpg
