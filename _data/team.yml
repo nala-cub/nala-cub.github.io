@@ -189,3 +189,9 @@
   email: mcascino@students.uni-mainz.de
   github: https://github.com/rencas-syk
   start: 05/2024
+  
+- name: Luis Cihlar
+  description: I am a bachelor's student in Comparative Linguistics at JGU Mainz. My academic interests lie in natural language processing and language teaching. Currently, I am writing my bachelor's thesis on the handling of honorifics in the Korean language. With my thesis, I aim to test LLMs' ability to process the incredibly sophisticated honorific system of Korean and to build a dataset that allows for reproducible testing of an LLM's understanding of Korean honorifics. I enjoy movies, literature, and learning new languages.
+  image: luiscihlar.jpg
+  email: lcihlar@students.uni-mainz.de
+  start: 07/2025
