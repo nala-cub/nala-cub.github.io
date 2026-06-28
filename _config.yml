@@ -110,7 +110,9 @@ plugins:
 
 scholar:
 
-  last_name: ['Kann', 'Fujinuma', 'Wiemerslage', 'Ebrahimi', 'Ganesh', 'Shaier', 'Aroca-Ouellette', 'Prabhu', 'Dudy', 'Bhatnagar', 'Paik', 'Gerlach', 'Singh', 'Hall', 'Valentini', 'Rice', 'French', 'von der Wense', 'Bui', 'Gessler', 'Wright', 'Salcido', 'Sanz-Guerrero', 'Saadi'] # Add names to highlighting particular authors
+  last_name: ['Kann', 'Fujinuma', 'Wiemerslage', 'Ebrahimi', 'Ganesh', 'Shaier', 'Aroca-Ouellette', 'Prabhu', 'Dudy', 'Bhatnagar', 'Paik', 'Gerlach', 'Singh', 'Hall', 'Valentini', 'Rice', 'French', 'von der Wense', 'Bui', 'Gessler', 'Wright', 'Salcido', 'Sanz-Guerrero', 'Saadi', 'Baker', 'Maitra', 'Sridhar', 'Marashian', 'Purushothama', 'Mager'] # Add names to highlighting particular authors
+  
+  exclude_last_name: ['Peter Herbert', 'Miguel']
 
   style: apa
   locale: en
